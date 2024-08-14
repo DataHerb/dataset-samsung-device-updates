@@ -1,0 +1,164 @@
+,cadence,model
+0,Monthly,Galaxy Z Fold2 5G
+1,Monthly,Galaxy Z Fold3 5G
+2,Monthly,Galaxy Z Flip3 5G
+3,Monthly,Galaxy Z Fold4
+4,Monthly,Galaxy Z Flip4
+5,Monthly,Galaxy Z Fold5
+6,Monthly,Galaxy Z Flip5
+7,Monthly,Galaxy Z Fold6
+8,Monthly,Galaxy Z Flip6
+9,Monthly,W23
+10,Monthly,W23 flip
+11,Monthly,W24
+12,Monthly,W24 Flip
+13,Monthly,Galaxy S20 FE
+14,Monthly,Galaxy S20 FE 5G
+15,Monthly,Galaxy S21 5G
+16,Monthly,Galaxy S21+ 5G
+17,Monthly,Galaxy S21 Ultra 5G
+18,Monthly,Galaxy S21 FE 5G
+19,Monthly,Galaxy S22
+20,Monthly,Galaxy S22+
+21,Monthly,Galaxy S22 Ultra
+22,Monthly,Galaxy S23
+23,Monthly,Galaxy S23+
+24,Monthly,Galaxy S23 Ultra
+25,Monthly,Galaxy S23 FE
+26,Monthly,Galaxy S24
+27,Monthly,Galaxy S24+
+28,Monthly,Galaxy S24 Ultra
+29,Monthly,Galaxy Note20
+30,Monthly,Galaxy Note20 5G
+31,Monthly,Galaxy Note20 Ultra
+32,Monthly,Galaxy Note20 Ultra 5G
+33,Monthly,Enterprise Models: Galaxy A52s 5G
+34,Monthly,Galaxy A53 5G
+35,Monthly,Galaxy A54 5G
+36,Monthly,Galaxy A55 5G
+37,Monthly,Galaxy Xcover5
+38,Monthly,Galaxy Xcover6 Pro
+39,Monthly,Galaxy Xcover7
+40,Quarterly,Galaxy Z Flip 5G
+41,Quarterly,Galaxy Z Fold2 5G
+42,Quarterly,Galaxy S20
+43,Quarterly,Galaxy S20 5G
+44,Quarterly,Galaxy S20+
+45,Quarterly,Galaxy S20+ 5G
+46,Quarterly,Galaxy S20 Ultra 5G
+47,Quarterly,Galaxy A22e 5G
+48,Quarterly,Galaxy A32
+49,Quarterly,Galaxy A32 5G
+50,Quarterly,Galaxy A13
+51,Quarterly,Galaxy A13 5G
+52,Quarterly,Galaxy A23
+53,Quarterly,Galaxy A23 5G
+54,Quarterly,Galaxy A33 5G
+55,Quarterly,Galaxy A73 5G
+56,Quarterly,Galaxy A04
+57,Quarterly,Galaxy A04s
+58,Quarterly,Galaxy A04e
+59,Quarterly,Galaxy A14
+60,Quarterly,Galaxy A14 5G
+61,Quarterly,Galaxy A24
+62,Quarterly,Galaxy A34 5G
+63,Quarterly,Galaxy A05
+64,Quarterly,Galaxy A05s
+65,Quarterly,Galaxy A15
+66,Quarterly,Galaxy A15 5G
+67,Quarterly,Galaxy A25 5G
+68,Quarterly,Galaxy A35 5G
+69,Quarterly,Galaxy C55 5G
+70,Quarterly,Galaxy M13
+71,Quarterly,Galaxy M13 5G
+72,Quarterly,Galaxy M23 5G
+73,Quarterly,Galaxy M33 5G
+74,Quarterly,Galaxy M53 5G
+75,Quarterly,Galaxy M04
+76,Quarterly,Galaxy M14
+77,Quarterly,Galaxy M14 5G
+78,Quarterly,Galaxy M34 5G
+79,Quarterly,Galaxy M44 5G
+80,Quarterly,Galaxy M54 5G
+81,Quarterly,Galaxy M15 5G
+82,Quarterly,Galaxy M35 5G
+83,Quarterly,Galaxy M55 5G
+84,Quarterly,Galaxy F13
+85,Quarterly,Galaxy F04
+86,Quarterly,Galaxy F14
+87,Quarterly,Galaxy F14 5G
+88,Quarterly,Galaxy F34 5G
+89,Quarterly,Galaxy F54 5G
+90,Quarterly,Galaxy F15 5G
+91,Quarterly,Galaxy F55 5G
+92,Quarterly,Galaxy Tab S6 Lite (2024)
+93,Quarterly,Galaxy Tab S7
+94,Quarterly,Galaxy Tab S8
+95,Quarterly,Galaxy Tab S8+
+96,Quarterly,Galaxy Tab S8 Ultra
+97,Quarterly,Galaxy Tab S9
+98,Quarterly,Galaxy Tab S9+
+99,Quarterly,Galaxy Tab S9 Ultra
+100,Quarterly,Galaxy Tab S9 FE
+101,Quarterly,Galaxy Tab S9 FE+
+102,Quarterly,Galaxy Tab A9
+103,Quarterly,Galaxy Tab A9+
+104,Quarterly,Enterprise Models: Galaxy A52
+105,Quarterly,Galaxy A52 5G
+106,Quarterly,Galaxy Xcover Pro
+107,Quarterly,Galaxy Tab Active3
+108,Quarterly,Galaxy Tab Active4 Pro
+109,Quarterly,Galaxy Tab Active5
+110,Biannual,Galaxy A02s
+111,Biannual,Galaxy A12
+112,Biannual,Galaxy A22
+113,Biannual,Galaxy A22 5G
+114,Biannual,Galaxy A42 5G
+115,Biannual,Galaxy A72
+116,Biannual,Galaxy A82 5G
+117,Biannual,Galaxy A03
+118,Biannual,Galaxy A03s
+119,Biannual,Galaxy A03 core
+120,Biannual,Galaxy M21 2021
+121,Biannual,Galaxy M31s
+122,Biannual,Galaxy M51
+123,Biannual,Galaxy M12
+124,Biannual,Galaxy M22
+125,Biannual,Galaxy M32
+126,Biannual,Galaxy M32 5G
+127,Biannual,Galaxy M42 5G
+128,Biannual,Galaxy M52 5G
+129,Biannual,Galaxy M62
+130,Biannual,Galaxy F12
+131,Biannual,Galaxy F22
+132,Biannual,Galaxy F42 5G
+133,Biannual,Galaxy F52 5G
+134,Biannual,Galaxy F62
+135,Biannual,Galaxy Tab A7
+136,Biannual,Galaxy Tab A7 Lite
+137,Biannual,Galaxy Tab A8
+138,Biannual,Galaxy Tab S6 Lite
+139,Biannual,Galaxy Tab S7+
+140,Biannual,Galaxy Tab S7 FE
+141,Biannual,W21 5G
+142,Biannual,W22 5G
+143,Quarterly,Galaxy Watch4 40mm
+144,Quarterly,Galaxy Watch4 44mm
+145,Quarterly,Galaxy Watch4 Classic 42mm
+146,Quarterly,Galaxy Watch4 Classic 46mm
+147,Quarterly,Galaxy Watch5 40mm
+148,Quarterly,Galaxy Watch5 44mm
+149,Quarterly,Galaxy Watch5 Pro
+150,Quarterly,Galaxy Watch6 40mm
+151,Quarterly,Galaxy Watch6 44mm
+152,Quarterly,Galaxy Watch6 Classic 43mm
+153,Quarterly,Galaxy Watch6 Classic 47mm
+154,Quarterly,Galaxy Watch7 40mm
+155,Quarterly,Galaxy Watch7 44mm
+156,Quarterly,Galaxy Watch Ultra
+157,Quarterly,Galaxy Watch FE
+158,No Information,Galaxy Book4 Ultra
+159,No Information,Galaxy Book4 Pro
+160,No Information,Galaxy Book4 Pro 360
+161,No Information,Galaxy Book4 360
+162,No Information,Galaxy Book4

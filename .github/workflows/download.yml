@@ -1,0 +1,42 @@
+name: Download from NUFORC
+
+on:
+  push:
+    branches:
+      - master
+  schedule:
+    - cron:  '0 7 * * 1'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout dataherb-flora
+        uses: actions/checkout@v4
+      - name: Get current directory and files
+        run: |
+          pwd
+          ls
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install Python Requirements
+        run: |
+          pip install -r scripts/requirements.txt
+      - name: Download new data
+        run: |
+          cd dataset
+          python ../scripts/samsung_device_update_scraper.py
+      - name: Update Data
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git status
+          git add .
+          git commit -m "Update Datasets" || echo "Nothing to update"
+          git status
+      - name: Push changes to repo
+        uses: ad-m/github-push-action@master
+        with:
+          branch: main

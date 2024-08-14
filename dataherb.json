@@ -1,0 +1,38 @@
+{
+    "source": "git",
+    "name": "samsung device update list",
+    "id": "samsung-device-update",
+    "description": "Samsung deivces have their own specific update cycles and schedules.",
+    "uri": "",
+    "metadata_uri": "https://raw.githubusercontent.com/dataherb/dataset-samsung-device-updates/main/dataherb.json",
+    "datapackage": {
+        "profile": "data-package",
+        "resources": [
+            {
+                "path": "dataset/samsung_device_updates.csv",
+                "profile": "tabular-data-resource",
+                "name": "samsung_device_updates",
+                "format": "csv",
+                "mediatype": "text/csv",
+                "encoding": "windows-1252",
+                "schema": {
+                    "fields": [
+                        {
+                            "name": "cadence",
+                            "type": "string",
+                            "format": "default"
+                        },
+                        {
+                            "name": "model",
+                            "type": "string",
+                            "format": "default"
+                        }
+                    ],
+                    "missingValues": [
+                        ""
+                    ]
+                }
+            }
+        ]
+    }
+}
