@@ -1,4 +1,4 @@
-name: Download from NUFORC
+name: Download data from Samsung
 
 on:
   push:
