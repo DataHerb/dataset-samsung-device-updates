@@ -84,3 +84,4 @@ if __name__ == "__main__":
     print(df)
 
     df.to_csv("samsung_device_updates.csv")
+    df.to_excel("samsung_device_updates.xlsx")
