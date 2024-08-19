@@ -70,7 +70,7 @@ class SamsungUpdateList:
 
         for i in self.parsed_updates:
             for j in i["devlices"]:
-                models.append({"cadence": i["cadence"], "model": j.replace("Enterprise Models: ", ""})
+                models.append({"cadence": i["cadence"], "model": j.replace("Enterprise Models: ", "")})
 
         return models
 
