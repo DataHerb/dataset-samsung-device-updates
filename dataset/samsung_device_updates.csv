@@ -29,136 +29,132 @@
 27,Monthly,Galaxy S25
 28,Monthly,Galaxy S25+
 29,Monthly,Galaxy S25 Ultra
-30,Monthly,Galaxy A53 5G
-31,Monthly,Galaxy A54 5G
-32,Monthly,Galaxy A55 5G
-33,Monthly,Galaxy XCover5
+30,Monthly,Galaxy A56 5G
+31,Monthly,Galaxy A53 5G
+32,Monthly,Galaxy A54 5G
+33,Monthly,Galaxy A55 5G
 34,Monthly,Galaxy XCover6 Pro
 35,Monthly,Galaxy XCover7
-36,Quarterly,Galaxy S20
-37,Quarterly,Galaxy S20 5G
-38,Quarterly,Galaxy S20+
-39,Quarterly,Galaxy S20+ 5G
-40,Quarterly,Galaxy S20 Ultra 5G
-41,Quarterly,Galaxy S20 FE
-42,Quarterly,Galaxy S20 FE 5G
-43,Quarterly,Galaxy S21 5G
-44,Quarterly,Galaxy S21+ 5G
-45,Quarterly,Galaxy S21 Ultra 5G
-46,Quarterly,Galaxy Note20
-47,Quarterly,Galaxy Note20 5G
-48,Quarterly,Galaxy Note20 Ultra
-49,Quarterly,Galaxy Note20 Ultra 5G
-50,Quarterly,Galaxy A32
-51,Quarterly,Galaxy A13
-52,Quarterly,Galaxy A13 5G
-53,Quarterly,Galaxy A23
-54,Quarterly,Galaxy A23 5G
-55,Quarterly,Galaxy A33 5G
-56,Quarterly,Galaxy A73 5G
-57,Quarterly,Galaxy A04
-58,Quarterly,Galaxy A04s
-59,Quarterly,Galaxy A04e
-60,Quarterly,Galaxy A14
-61,Quarterly,Galaxy A14 5G
-62,Quarterly,Galaxy A24
-63,Quarterly,Galaxy A34 5G
-64,Quarterly,Galaxy A05
-65,Quarterly,Galaxy A05s
-66,Quarterly,Galaxy A15
-67,Quarterly,Galaxy A15 5G
-68,Quarterly,Galaxy A25 5G
-69,Quarterly,Galaxy A35 5G
-70,Quarterly,Galaxy A06
-71,Quarterly,Galaxy A06 5G
-72,Quarterly,Galaxy A16
-73,Quarterly,Galaxy A16 5G
-74,Quarterly,Galaxy C55 5G
-75,Quarterly,Galaxy M13
-76,Quarterly,Galaxy M13 5G
-77,Quarterly,Galaxy M23 5G
-78,Quarterly,Galaxy M33 5G
-79,Quarterly,Galaxy M53 5G
-80,Quarterly,Galaxy M04
-81,Quarterly,Galaxy M14
-82,Quarterly,Galaxy M14 5G
-83,Quarterly,Galaxy M34 5G
-84,Quarterly,Galaxy M44 5G
-85,Quarterly,Galaxy M54 5G
-86,Quarterly,Galaxy M05
-87,Quarterly,Galaxy M15 5G
-88,Quarterly,Galaxy M35 5G
-89,Quarterly,Galaxy M55 5G
-90,Quarterly,Galaxy M55s 5G
-91,Quarterly,Galaxy F13
-92,Quarterly,Galaxy F04
-93,Quarterly,Galaxy F14
-94,Quarterly,Galaxy F14 5G
-95,Quarterly,Galaxy F34 5G
-96,Quarterly,Galaxy F54 5G
-97,Quarterly,Galaxy F05
-98,Quarterly,Galaxy F15 5G
-99,Quarterly,Galaxy F55 5G
-100,Quarterly,Galaxy F06 5G
-101,Quarterly,Galaxy Tab S6 Lite (2024)
-102,Quarterly,Galaxy Tab S8
-103,Quarterly,Galaxy Tab S8+
-104,Quarterly,Galaxy Tab S8 Ultra
-105,Quarterly,Galaxy Tab S9
-106,Quarterly,Galaxy Tab S9+
-107,Quarterly,Galaxy Tab S9 Ultra
-108,Quarterly,Galaxy Tab S9 FE
-109,Quarterly,Galaxy Tab S9 FE+
-110,Quarterly,Galaxy Tab S10+
-111,Quarterly,Galaxy Tab S10 Ultra
-112,Quarterly,Galaxy Tab A9
-113,Quarterly,Galaxy Tab A9+
-114,Quarterly,Galaxy A52
-115,Quarterly,Galaxy A52 5G
-116,Quarterly,Galaxy A52s 5G
-117,Quarterly,Galaxy Tab Active3
-118,Quarterly,Galaxy Tab Active4 Pro
-119,Quarterly,Galaxy Tab Active5
-120,Biannual,Galaxy A22
-121,Biannual,Galaxy A22 5G
-122,Biannual,Galaxy A72
-123,Biannual,Galaxy A82 5G
-124,Biannual,Galaxy A03
-125,Biannual,Galaxy A03s
-126,Biannual,Galaxy A03 core
-127,Biannual,Galaxy M21 2021
-128,Biannual,Galaxy M22
-129,Biannual,Galaxy M32
-130,Biannual,Galaxy M32 5G
-131,Biannual,Galaxy M42 5G
-132,Biannual,Galaxy M52 5G
-133,Biannual,Galaxy M62
-134,Biannual,Galaxy F22
-135,Biannual,Galaxy F42 5G
-136,Biannual,Galaxy F52 5G
-137,Biannual,Galaxy F62
-138,Biannual,Galaxy Tab A7 Lite
-139,Biannual,Galaxy Tab A8
-140,Biannual,Galaxy Tab S6 Lite
-141,Biannual,Galaxy Tab S7 FE
-142,Biannual,W22 5G
-143,Quarterly,Galaxy Watch4 40mm
-144,Quarterly,Galaxy Watch4 44mm
-145,Quarterly,Galaxy Watch4 Classic 42mm
-146,Quarterly,Galaxy Watch4 Classic 46mm
-147,Quarterly,Galaxy Watch5 40mm
-148,Quarterly,Galaxy Watch5 44mm
-149,Quarterly,Galaxy Watch5 Pro
-150,Quarterly,Galaxy Watch6 40mm
-151,Quarterly,Galaxy Watch6 44mm
-152,Quarterly,Galaxy Watch6 Classic 43mm
-153,Quarterly,Galaxy Watch6 Classic 47mm
-154,Quarterly,Galaxy Watch FE
-155,Quarterly,Galaxy Watch7 40mm
-156,Quarterly,Galaxy Watch7 44mm
-157,Quarterly,Galaxy Watch Ultra
-158,No Information,Galaxy Book4 Ultra
-159,No Information,Galaxy Book4 Pro
-160,No Information,Galaxy Book4 Pro 360
-161,No Information,Galaxy Book4 360
-162,No Information,Galaxy Book4
+36,Quarterly,Galaxy S20 FE
+37,Quarterly,Galaxy S20 FE 5G
+38,Quarterly,Galaxy S21 5G
+39,Quarterly,Galaxy S21+ 5G
+40,Quarterly,Galaxy S21 Ultra 5G
+41,Quarterly,Galaxy Note20
+42,Quarterly,Galaxy Note20 5G
+43,Quarterly,Galaxy Note20 Ultra
+44,Quarterly,Galaxy Note20 Ultra 5G
+45,Quarterly,Galaxy A13
+46,Quarterly,Galaxy A13 5G
+47,Quarterly,Galaxy A23
+48,Quarterly,Galaxy A23 5G
+49,Quarterly,Galaxy A33 5G
+50,Quarterly,Galaxy A73 5G
+51,Quarterly,Galaxy A04
+52,Quarterly,Galaxy A04s
+53,Quarterly,Galaxy A04e
+54,Quarterly,Galaxy A14
+55,Quarterly,Galaxy A14 5G
+56,Quarterly,Galaxy A24
+57,Quarterly,Galaxy A34 5G
+58,Quarterly,Galaxy A05
+59,Quarterly,Galaxy A05s
+60,Quarterly,Galaxy A15
+61,Quarterly,Galaxy A15 5G
+62,Quarterly,Galaxy A25 5G
+63,Quarterly,Galaxy A35 5G
+64,Quarterly,Galaxy A06
+65,Quarterly,Galaxy A06 5G
+66,Quarterly,Galaxy A16
+67,Quarterly,Galaxy A16 5G
+68,Quarterly,Galaxy A26 5G
+69,Quarterly,Galaxy A36 5G
+70,Quarterly,Galaxy C55 5G
+71,Quarterly,Galaxy M13
+72,Quarterly,Galaxy M13 5G
+73,Quarterly,Galaxy M23 5G
+74,Quarterly,Galaxy M33 5G
+75,Quarterly,Galaxy M53 5G
+76,Quarterly,Galaxy M04
+77,Quarterly,Galaxy M14
+78,Quarterly,Galaxy M14 5G
+79,Quarterly,Galaxy M34 5G
+80,Quarterly,Galaxy M44 5G
+81,Quarterly,Galaxy M54 5G
+82,Quarterly,Galaxy M05
+83,Quarterly,Galaxy M15 5G
+84,Quarterly,Galaxy M35 5G
+85,Quarterly,Galaxy M55 5G
+86,Quarterly,Galaxy M55s 5G
+87,Quarterly,Galaxy M06 5G
+88,Quarterly,Galaxy M16 5G
+89,Quarterly,Galaxy F13
+90,Quarterly,Galaxy F04
+91,Quarterly,Galaxy F14
+92,Quarterly,Galaxy F14 5G
+93,Quarterly,Galaxy F34 5G
+94,Quarterly,Galaxy F54 5G
+95,Quarterly,Galaxy F05
+96,Quarterly,Galaxy F15 5G
+97,Quarterly,Galaxy F55 5G
+98,Quarterly,Galaxy F06 5G
+99,Quarterly,Galaxy F16 5G
+100,Quarterly,Galaxy Tab S6 Lite (2024)
+101,Quarterly,Galaxy Tab S8
+102,Quarterly,Galaxy Tab S8+
+103,Quarterly,Galaxy Tab S8 Ultra
+104,Quarterly,Galaxy Tab S9
+105,Quarterly,Galaxy Tab S9+
+106,Quarterly,Galaxy Tab S9 Ultra
+107,Quarterly,Galaxy Tab S9 FE
+108,Quarterly,Galaxy Tab S9 FE+
+109,Quarterly,Galaxy Tab S10+
+110,Quarterly,Galaxy Tab S10 Ultra
+111,Quarterly,Galaxy Tab A9
+112,Quarterly,Galaxy Tab A9+
+113,Quarterly,Galaxy A52
+114,Quarterly,Galaxy A52s 5G
+115,Quarterly,Galaxy Tab Active3
+116,Quarterly,Galaxy Tab Active4 Pro
+117,Quarterly,Galaxy Tab Active5
+118,Quarterly,Galaxy XCover5
+119,Biannual,Galaxy A22
+120,Biannual,Galaxy A22 5G
+121,Biannual,Galaxy A82 5G
+122,Biannual,Galaxy A03
+123,Biannual,Galaxy A03s
+124,Biannual,Galaxy A03 core
+125,Biannual,Galaxy M21 2021
+126,Biannual,Galaxy M22
+127,Biannual,Galaxy M32
+128,Biannual,Galaxy M32 5G
+129,Biannual,Galaxy M42 5G
+130,Biannual,Galaxy M52 5G
+131,Biannual,Galaxy F22
+132,Biannual,Galaxy F42 5G
+133,Biannual,Galaxy F52 5G
+134,Biannual,Galaxy Tab A7 Lite
+135,Biannual,Galaxy Tab A8
+136,Biannual,Galaxy Tab S6 Lite
+137,Biannual,Galaxy Tab S7 FE
+138,Biannual,W22 5G
+139,Quarterly,Galaxy Watch4 40mm
+140,Quarterly,Galaxy Watch4 44mm
+141,Quarterly,Galaxy Watch4 Classic 42mm
+142,Quarterly,Galaxy Watch4 Classic 46mm
+143,Quarterly,Galaxy Watch5 40mm
+144,Quarterly,Galaxy Watch5 44mm
+145,Quarterly,Galaxy Watch5 Pro
+146,Quarterly,Galaxy Watch6 40mm
+147,Quarterly,Galaxy Watch6 44mm
+148,Quarterly,Galaxy Watch6 Classic 43mm
+149,Quarterly,Galaxy Watch6 Classic 47mm
+150,Quarterly,Galaxy Watch FE
+151,Quarterly,Galaxy Watch7 40mm
+152,Quarterly,Galaxy Watch7 44mm
+153,Quarterly,Galaxy Watch Ultra
+154,No Information,Galaxy Book4 Ultra
+155,No Information,Galaxy Book4 Pro
+156,No Information,Galaxy Book4 Pro 360
+157,No Information,Galaxy Book4 360
+158,No Information,Galaxy Book4
