@@ -73,18 +73,18 @@ Galaxy S23"
 61,Monthly,Galaxy S23 FE
 62,Monthly,"Enterprise Models
 
-Galaxy A53 5G"
-63,Monthly,Galaxy A54 5G
-64,Monthly,Galaxy A55 5G
-65,Monthly,"Galaxy A56 5G
+Galaxy A54 5G"
+63,Monthly,Galaxy A55 5G
+64,Monthly,Galaxy A56 5G
+65,Monthly,"Galaxy A57 5G
 Galaxy Tab Active5 Pro
 Galaxy XCover6 Pro"
 66,Monthly,Galaxy XCover7
 67,Monthly,Galaxy XCover7 Pro
-68,Monthly,Galaxy A53 5G
-69,Monthly,Galaxy A54 5G
-70,Monthly,Galaxy A55 5G
-71,Monthly,Galaxy A56 5G
+68,Monthly,Galaxy A54 5G
+69,Monthly,Galaxy A55 5G
+70,Monthly,Galaxy A56 5G
+71,Monthly,Galaxy A57 5G
 72,Monthly,Galaxy Tab Active5 Pro
 73,Monthly,Galaxy XCover6 Pro
 74,Monthly,Galaxy XCover7
@@ -133,227 +133,229 @@ Galaxy A23"
 Galaxy A33 5G"
 107,Quarterly,Galaxy A34 5G
 108,Quarterly,Galaxy A35 5G
-109,Quarterly,"Galaxy A36 5G
+109,Quarterly,Galaxy A36 5G
+110,Quarterly,"Galaxy A37 5G
 Galaxy A73 5G"
-110,Quarterly,Galaxy A04
-111,Quarterly,Galaxy A04s
-112,Quarterly,Galaxy A04e
-113,Quarterly,Galaxy A05
-114,Quarterly,Galaxy A05s
-115,Quarterly,Galaxy A06
-116,Quarterly,Galaxy A06 5G
-117,Quarterly,Galaxy A07
-118,Quarterly,Galaxy A07 5G
-119,Quarterly,Galaxy A13
-120,Quarterly,Galaxy A14
-121,Quarterly,Galaxy A14 5G
-122,Quarterly,Galaxy A15
-123,Quarterly,Galaxy A15 5G
-124,Quarterly,Galaxy A16
-125,Quarterly,Galaxy A16 5G
-126,Quarterly,Galaxy A17
-127,Quarterly,Galaxy A17 5G
-128,Quarterly,Galaxy A23
-129,Quarterly,Galaxy A23 5G
-130,Quarterly,Galaxy A24
-131,Quarterly,Galaxy A25 5G
-132,Quarterly,Galaxy A26 5G
-133,Quarterly,Galaxy A33 5G
-134,Quarterly,Galaxy A34 5G
-135,Quarterly,Galaxy A35 5G
-136,Quarterly,Galaxy A36 5G
-137,Quarterly,Galaxy A73 5G
-138,Quarterly,"Galaxy C Series
+111,Quarterly,Galaxy A04
+112,Quarterly,Galaxy A04s
+113,Quarterly,Galaxy A04e
+114,Quarterly,Galaxy A05
+115,Quarterly,Galaxy A05s
+116,Quarterly,Galaxy A06
+117,Quarterly,Galaxy A06 5G
+118,Quarterly,Galaxy A07
+119,Quarterly,Galaxy A07 5G
+120,Quarterly,Galaxy A13
+121,Quarterly,Galaxy A14
+122,Quarterly,Galaxy A14 5G
+123,Quarterly,Galaxy A15
+124,Quarterly,Galaxy A15 5G
+125,Quarterly,Galaxy A16
+126,Quarterly,Galaxy A16 5G
+127,Quarterly,Galaxy A17
+128,Quarterly,Galaxy A17 5G
+129,Quarterly,Galaxy A23
+130,Quarterly,Galaxy A23 5G
+131,Quarterly,Galaxy A24
+132,Quarterly,Galaxy A25 5G
+133,Quarterly,Galaxy A26 5G
+134,Quarterly,Galaxy A33 5G
+135,Quarterly,Galaxy A34 5G
+136,Quarterly,Galaxy A35 5G
+137,Quarterly,Galaxy A36 5G
+138,Quarterly,Galaxy A37 5G
+139,Quarterly,Galaxy A73 5G
+140,Quarterly,"Galaxy C Series
 
 Galaxy C55 5G"
-139,Quarterly,Galaxy C55 5G
-140,Quarterly,"Galaxy M Series
+141,Quarterly,Galaxy C55 5G
+142,Quarterly,"Galaxy M Series
 
 Galaxy M04"
-141,Quarterly,Galaxy M05
-142,Quarterly,Galaxy M06 5G
-143,Quarterly,"Galaxy M07
+143,Quarterly,Galaxy M05
+144,Quarterly,Galaxy M06 5G
+145,Quarterly,"Galaxy M07
 Galaxy M13"
-144,Quarterly,Galaxy M13 5G
-145,Quarterly,Galaxy M14
-146,Quarterly,Galaxy M14 5G
-147,Quarterly,Galaxy M15 5G
-148,Quarterly,Galaxy M16 5G
-149,Quarterly,Galaxy M17 5G
-150,Quarterly,"Galaxy M17e 5G
-Galaxy M23 5G
+146,Quarterly,Galaxy M13 5G
+147,Quarterly,Galaxy M14
+148,Quarterly,Galaxy M14 5G
+149,Quarterly,Galaxy M15 5G
+150,Quarterly,Galaxy M16 5G
+151,Quarterly,Galaxy M17 5G
+152,Quarterly,"Galaxy M17e 5G
 Galaxy M33 5G"
-151,Quarterly,Galaxy M34 5G
-152,Quarterly,Galaxy M35 5G
-153,Quarterly,"Galaxy M36 5G
+153,Quarterly,Galaxy M34 5G
+154,Quarterly,Galaxy M35 5G
+155,Quarterly,"Galaxy M36 5G
 Galaxy M44 5G
 Galaxy M53 5G"
-154,Quarterly,Galaxy M54 5G
-155,Quarterly,Galaxy M55 5G
-156,Quarterly,Galaxy M55s 5G
-157,Quarterly,Galaxy M56 5G
-158,Quarterly,Galaxy M04
-159,Quarterly,Galaxy M05
-160,Quarterly,Galaxy M06 5G
-161,Quarterly,Galaxy M07
-162,Quarterly,Galaxy M13
-163,Quarterly,Galaxy M13 5G
-164,Quarterly,Galaxy M14
-165,Quarterly,Galaxy M14 5G
-166,Quarterly,Galaxy M15 5G
-167,Quarterly,Galaxy M16 5G
-168,Quarterly,Galaxy M17 5G
-169,Quarterly,Galaxy M17e 5G
-170,Quarterly,Galaxy M23 5G
-171,Quarterly,Galaxy M33 5G
-172,Quarterly,Galaxy M34 5G
-173,Quarterly,Galaxy M35 5G
-174,Quarterly,Galaxy M36 5G
-175,Quarterly,Galaxy M44 5G
-176,Quarterly,Galaxy M53 5G
-177,Quarterly,Galaxy M54 5G
-178,Quarterly,Galaxy M55 5G
-179,Quarterly,Galaxy M55s 5G
-180,Quarterly,Galaxy M56 5G
-181,Quarterly,"Galaxy F Series
+156,Quarterly,Galaxy M54 5G
+157,Quarterly,Galaxy M55 5G
+158,Quarterly,Galaxy M55s 5G
+159,Quarterly,Galaxy M56 5G
+160,Quarterly,Galaxy M04
+161,Quarterly,Galaxy M05
+162,Quarterly,Galaxy M06 5G
+163,Quarterly,Galaxy M07
+164,Quarterly,Galaxy M13
+165,Quarterly,Galaxy M13 5G
+166,Quarterly,Galaxy M14
+167,Quarterly,Galaxy M14 5G
+168,Quarterly,Galaxy M15 5G
+169,Quarterly,Galaxy M16 5G
+170,Quarterly,Galaxy M17 5G
+171,Quarterly,Galaxy M17e 5G
+172,Quarterly,Galaxy M33 5G
+173,Quarterly,Galaxy M34 5G
+174,Quarterly,Galaxy M35 5G
+175,Quarterly,Galaxy M36 5G
+176,Quarterly,Galaxy M44 5G
+177,Quarterly,Galaxy M53 5G
+178,Quarterly,Galaxy M54 5G
+179,Quarterly,Galaxy M55 5G
+180,Quarterly,Galaxy M55s 5G
+181,Quarterly,Galaxy M56 5G
+182,Quarterly,"Galaxy F Series
 
 Galaxy F04"
-182,Quarterly,Galaxy F05
-183,Quarterly,Galaxy F06 5G
-184,Quarterly,Galaxy F07
-185,Quarterly,"Galaxy F70e 5G
+183,Quarterly,Galaxy F05
+184,Quarterly,Galaxy F06 5G
+185,Quarterly,Galaxy F07
+186,Quarterly,"Galaxy F70e 5G
 Galaxy F13"
-186,Quarterly,Galaxy F14
-187,Quarterly,Galaxy F14 5G
-188,Quarterly,Galaxy F15 5G
-189,Quarterly,Galaxy F16 5G
-190,Quarterly,"Galaxy F17 5G
+187,Quarterly,Galaxy F14
+188,Quarterly,Galaxy F14 5G
+189,Quarterly,Galaxy F15 5G
+190,Quarterly,Galaxy F16 5G
+191,Quarterly,"Galaxy F17 5G
 Galaxy F34 5G"
-191,Quarterly,"Galaxy F36 5G
+192,Quarterly,"Galaxy F36 5G
 Galaxy F54 5G"
-192,Quarterly,Galaxy F55 5G
-193,Quarterly,Galaxy F56 5G
-194,Quarterly,Galaxy F04
-195,Quarterly,Galaxy F05
-196,Quarterly,Galaxy F06 5G
-197,Quarterly,Galaxy F07
-198,Quarterly,Galaxy F70e 5G
-199,Quarterly,Galaxy F13
-200,Quarterly,Galaxy F14
-201,Quarterly,Galaxy F14 5G
-202,Quarterly,Galaxy F15 5G
-203,Quarterly,Galaxy F16 5G
-204,Quarterly,Galaxy F17 5G
-205,Quarterly,Galaxy F34 5G
-206,Quarterly,Galaxy F36 5G
-207,Quarterly,Galaxy F54 5G
-208,Quarterly,Galaxy F55 5G
-209,Quarterly,Galaxy F56 5G
-210,Quarterly,"Galaxy Tab S Series
+193,Quarterly,Galaxy F55 5G
+194,Quarterly,Galaxy F56 5G
+195,Quarterly,Galaxy F04
+196,Quarterly,Galaxy F05
+197,Quarterly,Galaxy F06 5G
+198,Quarterly,Galaxy F07
+199,Quarterly,Galaxy F70e 5G
+200,Quarterly,Galaxy F13
+201,Quarterly,Galaxy F14
+202,Quarterly,Galaxy F14 5G
+203,Quarterly,Galaxy F15 5G
+204,Quarterly,Galaxy F16 5G
+205,Quarterly,Galaxy F17 5G
+206,Quarterly,Galaxy F34 5G
+207,Quarterly,Galaxy F36 5G
+208,Quarterly,Galaxy F54 5G
+209,Quarterly,Galaxy F55 5G
+210,Quarterly,Galaxy F56 5G
+211,Quarterly,"Galaxy Tab S Series
 
 Galaxy Tab S11"
-211,Quarterly,"Galaxy Tab S11 Ultra
+212,Quarterly,"Galaxy Tab S11 Ultra
 Galaxy Tab S10+"
-212,Quarterly,Galaxy Tab S10 Ultra
-213,Quarterly,Galaxy Tab S10 FE
-214,Quarterly,Galaxy Tab S10 FE+
-215,Quarterly,"Galaxy Tab S10 Lite
+213,Quarterly,Galaxy Tab S10 Ultra
+214,Quarterly,Galaxy Tab S10 FE
+215,Quarterly,Galaxy Tab S10 FE+
+216,Quarterly,"Galaxy Tab S10 Lite
 Galaxy Tab S9"
-216,Quarterly,Galaxy Tab S9+
-217,Quarterly,Galaxy Tab S9 Ultra
-218,Quarterly,Galaxy Tab S9 FE
-219,Quarterly,"Galaxy Tab S9 FE+
+217,Quarterly,Galaxy Tab S9+
+218,Quarterly,Galaxy Tab S9 Ultra
+219,Quarterly,Galaxy Tab S9 FE
+220,Quarterly,"Galaxy Tab S9 FE+
 Galaxy Tab S8"
-220,Quarterly,Galaxy Tab S8+
-221,Quarterly,"Galaxy Tab S8 Ultra
+221,Quarterly,Galaxy Tab S8+
+222,Quarterly,"Galaxy Tab S8 Ultra
 Galaxy Tab S6 Lite (2024)"
-222,Quarterly,Galaxy Tab S11
-223,Quarterly,Galaxy Tab S11 Ultra
-224,Quarterly,Galaxy Tab S10+
-225,Quarterly,Galaxy Tab S10 Ultra
-226,Quarterly,Galaxy Tab S10 FE
-227,Quarterly,Galaxy Tab S10 FE+
-228,Quarterly,Galaxy Tab S10 Lite
-229,Quarterly,Galaxy Tab S9
-230,Quarterly,Galaxy Tab S9+
-231,Quarterly,Galaxy Tab S9 Ultra
-232,Quarterly,Galaxy Tab S9 FE
-233,Quarterly,Galaxy Tab S9 FE+
-234,Quarterly,Galaxy Tab S8
-235,Quarterly,Galaxy Tab S8+
-236,Quarterly,Galaxy Tab S8 Ultra
-237,Quarterly,Galaxy Tab S6 Lite (2024)
-238,Quarterly,"Galaxy Tab A Series
+223,Quarterly,Galaxy Tab S11
+224,Quarterly,Galaxy Tab S11 Ultra
+225,Quarterly,Galaxy Tab S10+
+226,Quarterly,Galaxy Tab S10 Ultra
+227,Quarterly,Galaxy Tab S10 FE
+228,Quarterly,Galaxy Tab S10 FE+
+229,Quarterly,Galaxy Tab S10 Lite
+230,Quarterly,Galaxy Tab S9
+231,Quarterly,Galaxy Tab S9+
+232,Quarterly,Galaxy Tab S9 Ultra
+233,Quarterly,Galaxy Tab S9 FE
+234,Quarterly,Galaxy Tab S9 FE+
+235,Quarterly,Galaxy Tab S8
+236,Quarterly,Galaxy Tab S8+
+237,Quarterly,Galaxy Tab S8 Ultra
+238,Quarterly,Galaxy Tab S6 Lite (2024)
+239,Quarterly,"Galaxy Tab A Series
 
 Galaxy Tab A11"
-239,Quarterly,"Galaxy Tab A11+
+240,Quarterly,"Galaxy Tab A11+
 Galaxy Tab A9"
-240,Quarterly,Galaxy Tab A9+
-241,Quarterly,Galaxy Tab A9+(2025)
-242,Quarterly,Galaxy Tab A11
-243,Quarterly,Galaxy Tab A11+
-244,Quarterly,Galaxy Tab A9
-245,Quarterly,Galaxy Tab A9+
-246,Quarterly,Galaxy Tab A9+(2025)
-247,Quarterly,"Enterprise Models
+241,Quarterly,Galaxy Tab A9+
+242,Quarterly,Galaxy Tab A9+(2025)
+243,Quarterly,Galaxy Tab A11
+244,Quarterly,Galaxy Tab A11+
+245,Quarterly,Galaxy Tab A9
+246,Quarterly,Galaxy Tab A9+
+247,Quarterly,Galaxy Tab A9+(2025)
+248,Quarterly,"Enterprise Models
 
+Galaxy A53 5G 
 Galaxy Tab Active4 Pro"
-248,Quarterly,"Galaxy Tab Active5
+249,Quarterly,"Galaxy Tab Active5
 Galaxy XCover5"
-249,Quarterly,Galaxy Tab Active4 Pro
-250,Quarterly,Galaxy Tab Active5
-251,Quarterly,Galaxy XCover5
-252,Quarterly,"Galaxy Watch Series
+250,Quarterly,Galaxy A53 5G
+251,Quarterly,Galaxy Tab Active4 Pro
+252,Quarterly,Galaxy Tab Active5
+253,Quarterly,Galaxy XCover5
+254,Quarterly,"Galaxy Watch Series
 
 Galaxy Watch8 40mm"
-253,Quarterly,Galaxy Watch8 44mm
-254,Quarterly,"Galaxy Watch8 Classic 46mm
+255,Quarterly,Galaxy Watch8 44mm
+256,Quarterly,"Galaxy Watch8 Classic 46mm
 Galaxy Watch Ultra
 Galaxy Watch7 40mm"
-255,Quarterly,"Galaxy Watch7 44mm
+257,Quarterly,"Galaxy Watch7 44mm
 Galaxy Watch FE
 Galaxy Watch6 40mm"
-256,Quarterly,Galaxy Watch6 44mm
-257,Quarterly,Galaxy Watch6 Classic 43mm
-258,Quarterly,"Galaxy Watch6 Classic 47mm
+258,Quarterly,Galaxy Watch6 44mm
+259,Quarterly,Galaxy Watch6 Classic 43mm
+260,Quarterly,"Galaxy Watch6 Classic 47mm
 Galaxy Watch5 40mm"
-259,Quarterly,Galaxy Watch5 44mm
-260,Quarterly,"Galaxy Watch5 Pro
+261,Quarterly,Galaxy Watch5 44mm
+262,Quarterly,"Galaxy Watch5 Pro
 Galaxy Watch4 40mm"
-261,Quarterly,Galaxy Watch4 44mm
-262,Quarterly,Galaxy Watch4 Classic 42mm
-263,Quarterly,Galaxy Watch4 Classic 46mm
-264,Quarterly,Galaxy Watch8 40mm
-265,Quarterly,Galaxy Watch8 44mm
-266,Quarterly,Galaxy Watch8 Classic 46mm
-267,Quarterly,Galaxy Watch Ultra
-268,Quarterly,Galaxy Watch7 40mm
-269,Quarterly,Galaxy Watch7 44mm
-270,Quarterly,Galaxy Watch FE
-271,Quarterly,Galaxy Watch6 40mm
-272,Quarterly,Galaxy Watch6 44mm
-273,Quarterly,Galaxy Watch6 Classic 43mm
-274,Quarterly,Galaxy Watch6 Classic 47mm
-275,Quarterly,Galaxy Watch5 40mm
-276,Quarterly,Galaxy Watch5 44mm
-277,Quarterly,Galaxy Watch5 Pro
-278,Quarterly,Galaxy Watch4 40mm
-279,Quarterly,Galaxy Watch4 44mm
-280,Quarterly,Galaxy Watch4 Classic 42mm
-281,Quarterly,Galaxy Watch4 Classic 46mm
-282,Quarterly,"Galaxy XR Series
+263,Quarterly,Galaxy Watch4 44mm
+264,Quarterly,Galaxy Watch4 Classic 42mm
+265,Quarterly,Galaxy Watch4 Classic 46mm
+266,Quarterly,Galaxy Watch8 40mm
+267,Quarterly,Galaxy Watch8 44mm
+268,Quarterly,Galaxy Watch8 Classic 46mm
+269,Quarterly,Galaxy Watch Ultra
+270,Quarterly,Galaxy Watch7 40mm
+271,Quarterly,Galaxy Watch7 44mm
+272,Quarterly,Galaxy Watch FE
+273,Quarterly,Galaxy Watch6 40mm
+274,Quarterly,Galaxy Watch6 44mm
+275,Quarterly,Galaxy Watch6 Classic 43mm
+276,Quarterly,Galaxy Watch6 Classic 47mm
+277,Quarterly,Galaxy Watch5 40mm
+278,Quarterly,Galaxy Watch5 44mm
+279,Quarterly,Galaxy Watch5 Pro
+280,Quarterly,Galaxy Watch4 40mm
+281,Quarterly,Galaxy Watch4 44mm
+282,Quarterly,Galaxy Watch4 Classic 42mm
+283,Quarterly,Galaxy Watch4 Classic 46mm
+284,Quarterly,"Galaxy XR Series
 
 Galaxy XR"
-283,Quarterly,Galaxy XR
-284,No Information,"Galaxy Book Series
+285,Quarterly,Galaxy XR
+286,No Information,"Galaxy Book Series
 
 Galaxy Book4 Ultra"
-285,No Information,Galaxy Book4 Pro
-286,No Information,Galaxy Book4 Pro 360
-287,No Information,Galaxy Book4 360
-288,No Information,Galaxy Book4
-289,No Information,Galaxy Book4 Ultra
-290,No Information,Galaxy Book4 Pro
-291,No Information,Galaxy Book4 Pro 360
-292,No Information,Galaxy Book4 360
-293,No Information,Galaxy Book4
+287,No Information,Galaxy Book4 Pro
+288,No Information,Galaxy Book4 Pro 360
+289,No Information,Galaxy Book4 360
+290,No Information,Galaxy Book4
+291,No Information,Galaxy Book4 Ultra
+292,No Information,Galaxy Book4 Pro
+293,No Information,Galaxy Book4 Pro 360
+294,No Information,Galaxy Book4 360
+295,No Information,Galaxy Book4
