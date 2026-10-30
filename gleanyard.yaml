@@ -1,0 +1,11 @@
+# Project settings; every key is optional. See https://kausalflow.github.io/gleanyard/
+schema_version: 1
+user_agent: "dataset-samsung-device-updates (+https://github.com/DataHerb/dataset-samsung-device-updates)"
+excluded_hosts: []
+export_csv: dataset/samsung_device_updates.csv   # the path this dataset has always published
+dataherb:                 # list this project in a DataHerb catalog (https://dataherb.github.io)
+  id: "samsung-device-update"
+  name: "samsung device update list"
+  description: "Samsung devices listed for regular security updates, with their update cadence (monthly, quarterly, biannual)."
+  tags: [samsung, android, security-updates]
+  expected_interval: P1D  # how often collect runs; the catalog flags the data as stale after this

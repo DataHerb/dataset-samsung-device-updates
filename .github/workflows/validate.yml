@@ -1,0 +1,22 @@
+name: validate
+on:
+  pull_request:
+  push:
+    branches: [main]
+permissions:
+  contents: read
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install "gleanyard~=0.10.0"
+      - run: gleanyard validate
+      - name: Do the fixtures still give the same records?
+        run: gleanyard test
+      - name: Are the assistant's procedures current?
+        run: |
+          gleanyard skill --check || echo "::warning::The gleanyard skill is out of date: run 'gleanyard skill' and commit the result."

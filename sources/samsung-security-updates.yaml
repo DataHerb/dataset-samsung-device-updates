@@ -1,0 +1,30 @@
+schema_version: 1
+id: samsung-security-updates
+name: Samsung Mobile Security, security update scope
+schema: device-update
+enabled: false
+delivery: html
+url: https://security.samsungmobile.com/workScope.smsb
+homepage: https://security.samsungmobile.com/
+extract:
+  mode: selectors
+  selectors: mappings/samsung-security-updates.json
+  explode: series_list.model     # one record per model listed on a line
+fetch:
+  max_requests: 3
+  delay_seconds: 1
+expect_change_days: 120          # the list changes a few times a year
+rights:
+  review_status: pending
+  effective_tier: facts_only
+  allowed_actions:
+    private_store: true
+    normalize: true
+    send_to_model: false
+    redistribute_facts: true
+    redistribute_text: false
+    redistribute_images: false
+  public_fields: [model, series, cadence, group]
+  notes: >-
+    Pending the owner's review. No licence or terms of use found; the records are facts.
+    See evidence/samsung-security-updates/2026-10-30-terms.yaml.

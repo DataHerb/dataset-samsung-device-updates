@@ -1,0 +1,978 @@
+{
+  "records": {
+    "rec_02105a6ab430a0a15eb9": {
+      "cadence": "Quarterly",
+      "group": "Current Wearable Models for Quarterly Security Updates",
+      "model": "Galaxy Watch6 Classic 47mm",
+      "series": "Galaxy Watch Series"
+    },
+    "rec_0276e50097f254933a52": {
+      "cadence": "Quarterly",
+      "group": "Current Wearable Models for Quarterly Security Updates",
+      "model": "Galaxy Watch FE",
+      "series": "Galaxy Watch Series"
+    },
+    "rec_02808cb62235abe0c5b2": {
+      "cadence": "Quarterly",
+      "group": "Current Models for Quarterly Security Updates",
+      "model": "Galaxy Tab S6 Lite (2024)",
+      "series": "Galaxy Tab S Series"
+    },
+    "rec_06f9240450162735074d": {
+      "cadence": "Quarterly",
+      "group": "Current Models for Quarterly Security Updates",
+      "model": "Galaxy A18",
+      "series": "Galaxy A Series"
+    },
+    "rec_0738f422feeb474b6716": {
+      "cadence": "Quarterly",
+      "group": "Current Models for Quarterly Security Updates",
+      "model": "Galaxy F04",
+      "series": "Galaxy F Series"
+    },
+    "rec_075fa1693ac781bdde19": {
+      "cadence": "Quarterly",
+      "group": "Current Models for Quarterly Security Updates",
+      "model": "Galaxy M17 5G",
+      "series": "Galaxy M Series"
+    },
+    "rec_07f06cf62d35e5fef884": {
+      "cadence": "Monthly",
+      "group": "Current Models for Monthly Security Updates",
+      "model": "Galaxy Z Flip5",
+      "series": "Galaxy Foldable Series"
+    },
+    "rec_09602c0185ccf283a75f": {
+      "cadence": "Quarterly",
+      "group": "Current Models for Quarterly Security Updates",
+      "model": "Galaxy M05",
+      "series": "Galaxy M Series"
+    },
+    "rec_099e74a4e494ed67202d": {
+      "cadence": "Quarterly",
+      "group": "Current Wearable Models for Quarterly Security Updates",
+      "model": "Galaxy Watch5 44mm",
+      "series": "Galaxy Watch Series"
+    },
+    "rec_09e8391eb66d7108c7ce": {
+      "cadence": "Monthly",
+      "group": "Current Models for Monthly Security Updates",
+      "model": "Galaxy Z Fold5",
+      "series": "Galaxy Foldable Series"
+    },
+    "rec_0b4fd5d68779175b5ff1": {
+      "cadence": "Quarterly",
+      "group": "Current Models for Quarterly Security Updates",
+      "model": "Galaxy S21 FE 5G",
+      "series": "Galaxy S Series"
+    },
+    "rec_0cd87fe77ada724f0b87": {
+      "group": "Current Personal Computer Models for Security Updates",
+      "model": "Galaxy Book4 360",
+      "series": "Galaxy Book Series"
+    },
+    "rec_0eab42d3ad45bbc0ad84": {
+      "cadence": "Quarterly",
+      "group": "Current Models for Quarterly Security Updates",
+      "model": "Galaxy A17 5G",
+      "series": "Galaxy A Series"
+    },
+    "rec_0f93db5f57c8e757e41c": {
+      "cadence": "Quarterly",
+      "group": "Current Models for Quarterly Security Updates",
+      "model": "Galaxy Tab S9+",
+      "series": "Galaxy Tab S Series"
+    },
+    "rec_11ddb52f2476fe9fa1b2": {
+      "cadence": "Quarterly",
+      "group": "Current Models for Quarterly Security Updates",
+      "model": "Galaxy M44 5G",
+      "series": "Galaxy M Series"
+    },
+    "rec_12d8e4da24ace99f4346": {
+      "cadence": "Quarterly",
+      "group": "Current Models for Quarterly Security Updates",
+      "model": "Galaxy A15 5G",
+      "series": "Galaxy A Series"
+    },
+    "rec_13b0e8ee7b4db350aec7": {
+      "cadence": "Monthly",
+      "group": "Current Models for Monthly Security Updates",
+      "model": "Galaxy S23 Ultra",
+      "series": "Galaxy S Series"
+    },
+    "rec_15480b40fff9bf340f74": {
+      "cadence": "Quarterly",
+      "group": "Current Models for Quarterly Security Updates",
+      "model": "Galaxy M07",
+      "series": "Galaxy M Series"
+    },
+    "rec_161a8a2c56bb16302cdd": {
+      "cadence": "Quarterly",
+      "group": "Current Models for Quarterly Security Updates",
+      "model": "Galaxy A37 5G",
+      "series": "Galaxy A Series"
+    },
+    "rec_18c2d1dc8d10a3754ce8": {
+      "cadence": "Monthly",
+      "group": "Current Models for Monthly Security Updates",
+      "model": "Galaxy S23+",
+      "series": "Galaxy S Series"
+    },
+    "rec_190e63bece2497f5b308": {
+      "cadence": "Monthly",
+      "group": "Current Models for Monthly Security Updates",
+      "model": "W25 Flip",
+      "series": "Galaxy Foldable Series"
+    },
+    "rec_1aaadc344d5716ff4d2a": {
+      "cadence": "Quarterly",
+      "group": "Current Models for Quarterly Security Updates",
+      "model": "Galaxy Tab S10 Lite",
+      "series": "Galaxy Tab S Series"
+    },
+    "rec_1b9a354da224c735dc84": {
+      "cadence": "Quarterly",
+      "group": "Current Models for Quarterly Security Updates",
+      "model": "Galaxy A33 5G",
+      "series": "Galaxy A Series"
+    },
+    "rec_1c5edba8fb35713ebad8": {
+      "cadence": "Quarterly",
+      "group": "Current Models for Quarterly Security Updates",
+      "model": "Galaxy F17 5G",
+      "series": "Galaxy F Series"
+    },
+    "rec_1d6876f1c2931dee601c": {
+      "cadence": "Monthly",
+      "group": "Current Models for Monthly Security Updates",
+      "model": "Galaxy S24 Ultra",
+      "series": "Galaxy S Series"
+    },
+    "rec_1de4440a5fd2892ce611": {
+      "cadence": "Quarterly",
+      "group": "Current Models for Quarterly Security Updates",
+      "model": "Galaxy A04e",
+      "series": "Galaxy A Series"
+    },
+    "rec_25007761d203d1226df3": {
+      "cadence": "Quarterly",
+      "group": "Current Models for Quarterly Security Updates",
+      "model": "Galaxy XCover5",
+      "series": "Enterprise Models"
+    },
+    "rec_26aaf27b81d05470d171": {
+      "cadence": "Quarterly",
+      "group": "Current Models for Quarterly Security Updates",
+      "model": "Galaxy Tab S11 Ultra",
+      "series": "Galaxy Tab S Series"
+    },
+    "rec_29a6f205af7dce5f405b": {
+      "cadence": "Quarterly",
+      "group": "Current Models for Quarterly Security Updates",
+      "model": "Galaxy M55 5G",
+      "series": "Galaxy M Series"
+    },
+    "rec_2b9f880b26b61d475b65": {
+      "cadence": "Quarterly",
+      "group": "Current Models for Quarterly Security Updates",
+      "model": "Galaxy XCover6 Pro",
+      "series": "Enterprise Models"
+    },
+    "rec_2bc1cea5faa4aa57da89": {
+      "cadence": "Quarterly",
+      "group": "Current Models for Quarterly Security Updates",
+      "model": "Galaxy A26 5G",
+      "series": "Galaxy A Series"
+    },
+    "rec_2ee43a96339c8b7eb944": {
+      "cadence": "Monthly",
+      "group": "Current Models for Monthly Security Updates",
+      "model": "Galaxy S25 Edge",
+      "series": "Galaxy S Series"
+    },
+    "rec_2f25634306160cb4b8cb": {
+      "cadence": "Monthly",
+      "group": "Current Models for Monthly Security Updates",
+      "model": "Galaxy S26 FE",
+      "series": "Galaxy S Series"
+    },
+    "rec_3113485a093286ac0d29": {
+      "cadence": "Quarterly",
+      "group": "Current Models for Quarterly Security Updates",
+      "model": "Galaxy F70 Pro 5G",
+      "series": "Galaxy F Series"
+    },
+    "rec_33095d28c9b63cb5f336": {
+      "cadence": "Quarterly",
+      "group": "Current Models for Quarterly Security Updates",
+      "model": "Galaxy Z Fold4",
+      "series": "Galaxy Foldable Series"
+    },
+    "rec_35c1459495f0ea9f2819": {
+      "cadence": "Quarterly",
+      "group": "Current Models for Quarterly Security Updates",
+      "model": "Galaxy S22 Ultra",
+      "series": "Galaxy S Series"
+    },
+    "rec_3716770cc5eb49b16de5": {
+      "cadence": "Quarterly",
+      "group": "Current Models for Quarterly Security Updates",
+      "model": "Galaxy Tab S8+",
+      "series": "Galaxy Tab S Series"
+    },
+    "rec_37ab8367ea7094f40cde": {
+      "cadence": "Quarterly",
+      "group": "Current Models for Quarterly Security Updates",
+      "model": "Galaxy Tab S10 FE",
+      "series": "Galaxy Tab S Series"
+    },
+    "rec_387c00f25f653550e4f1": {
+      "cadence": "Quarterly",
+      "group": "Current Models for Quarterly Security Updates",
+      "model": "Galaxy M34 5G",
+      "series": "Galaxy M Series"
+    },
+    "rec_39462debd7ff4a62c5c4": {
+      "cadence": "Quarterly",
+      "group": "Current Models for Quarterly Security Updates",
+      "model": "Galaxy C55 5G",
+      "series": "Galaxy C Series"
+    },
+    "rec_397b0a87c95fcf624dd4": {
+      "cadence": "Monthly",
+      "group": "Current Models for Monthly Security Updates",
+      "model": "Galaxy Z Flip7 FE",
+      "series": "Galaxy Foldable Series"
+    },
+    "rec_3b24fe3a27ff534bdbd8": {
+      "cadence": "Quarterly",
+      "group": "Current Models for Quarterly Security Updates",
+      "model": "Galaxy M55s 5G",
+      "series": "Galaxy M Series"
+    },
+    "rec_3c70c7ae2cd3bbab1e85": {
+      "cadence": "Quarterly",
+      "group": "Current Models for Quarterly Security Updates",
+      "model": "Galaxy Z Flip4",
+      "series": "Galaxy Foldable Series"
+    },
+    "rec_3f0d1d56f8175d4d4607": {
+      "cadence": "Monthly",
+      "group": "Current Models for Monthly Security Updates",
+      "model": "Galaxy Z TriFold",
+      "series": "Galaxy Foldable Series"
+    },
+    "rec_3f4b4ed2281bdebfee80": {
+      "cadence": "Quarterly",
+      "group": "Current Models for Quarterly Security Updates",
+      "model": "Galaxy F15 5G",
+      "series": "Galaxy F Series"
+    },
+    "rec_400d7c13949c7e76c5eb": {
+      "cadence": "Quarterly",
+      "group": "Current Wearable Models for Quarterly Security Updates",
+      "model": "Galaxy XR",
+      "series": "Galaxy XR Series"
+    },
+    "rec_40a55f412514ced1770c": {
+      "cadence": "Monthly",
+      "group": "Current Models for Monthly Security Updates",
+      "model": "Galaxy S25",
+      "series": "Galaxy S Series"
+    },
+    "rec_41dcf3e5849596342dfa": {
+      "cadence": "Quarterly",
+      "group": "Current Models for Quarterly Security Updates",
+      "model": "Galaxy A73 5G",
+      "series": "Galaxy A Series"
+    },
+    "rec_42cf97a345cc794cfaaa": {
+      "cadence": "Quarterly",
+      "group": "Current Models for Quarterly Security Updates",
+      "model": "Galaxy F14",
+      "series": "Galaxy F Series"
+    },
+    "rec_4340cd7831cd3fe23be6": {
+      "cadence": "Quarterly",
+      "group": "Current Models for Quarterly Security Updates",
+      "model": "Galaxy Tab S8",
+      "series": "Galaxy Tab S Series"
+    },
+    "rec_449a43b525adb6200f16": {
+      "cadence": "Quarterly",
+      "group": "Current Models for Quarterly Security Updates",
+      "model": "Galaxy A06",
+      "series": "Galaxy A Series"
+    },
+    "rec_44bb5666af317133314d": {
+      "cadence": "Quarterly",
+      "group": "Current Models for Quarterly Security Updates",
+      "model": "Galaxy F36 5G",
+      "series": "Galaxy F Series"
+    },
+    "rec_45461acb78c42b8ca922": {
+      "cadence": "Quarterly",
+      "group": "Current Models for Quarterly Security Updates",
+      "model": "Galaxy A35 5G",
+      "series": "Galaxy A Series"
+    },
+    "rec_4eef6c4aac5f10ffe5d2": {
+      "cadence": "Quarterly",
+      "group": "Current Models for Quarterly Security Updates",
+      "model": "Galaxy M14",
+      "series": "Galaxy M Series"
+    },
+    "rec_4f16e29108c2ba348907": {
+      "cadence": "Quarterly",
+      "group": "Current Models for Quarterly Security Updates",
+      "model": "W23",
+      "series": "Galaxy Foldable Series"
+    },
+    "rec_5195238a2ba52ed61ff3": {
+      "cadence": "Quarterly",
+      "group": "Current Models for Quarterly Security Updates",
+      "model": "Galaxy F54 5G",
+      "series": "Galaxy F Series"
+    },
+    "rec_5513ba38aaa1bbf26666": {
+      "group": "Current Personal Computer Models for Security Updates",
+      "model": "Galaxy Book4 Pro 360",
+      "series": "Galaxy Book Series"
+    },
+    "rec_570d84488b1dc3198116": {
+      "cadence": "Monthly",
+      "group": "Current Models for Monthly Security Updates",
+      "model": "Galaxy A54 5G",
+      "series": "Enterprise Models"
+    },
+    "rec_589700089c90fb8238d2": {
+      "cadence": "Quarterly",
+      "group": "Current Models for Quarterly Security Updates",
+      "model": "Galaxy A34 5G",
+      "series": "Galaxy A Series"
+    },
+    "rec_5bd452245ddfee2a33ea": {
+      "cadence": "Monthly",
+      "group": "Current Models for Monthly Security Updates",
+      "model": "Galaxy S24",
+      "series": "Galaxy S Series"
+    },
+    "rec_5c13e2d948e521b0bb43": {
+      "cadence": "Quarterly",
+      "group": "Current Models for Quarterly Security Updates",
+      "model": "Galaxy F55 5G",
+      "series": "Galaxy F Series"
+    },
+    "rec_5c2046454a1e391e052f": {
+      "cadence": "Quarterly",
+      "group": "Current Models for Quarterly Security Updates",
+      "model": "Galaxy F70e 5G",
+      "series": "Galaxy F Series"
+    },
+    "rec_61400c69f95a4c3a47ef": {
+      "cadence": "Quarterly",
+      "group": "Current Models for Quarterly Security Updates",
+      "model": "Galaxy Tab S10 Ultra",
+      "series": "Galaxy Tab S Series"
+    },
+    "rec_62a757c252c8997de30d": {
+      "cadence": "Monthly",
+      "group": "Current Models for Monthly Security Updates",
+      "model": "Galaxy Z Fold8",
+      "series": "Galaxy Foldable Series"
+    },
+    "rec_6311788758d048b728bf": {
+      "cadence": "Quarterly",
+      "group": "Current Models for Quarterly Security Updates",
+      "model": "Galaxy A24",
+      "series": "Galaxy A Series"
+    },
+    "rec_666160bacc9b25529c9c": {
+      "group": "Current Personal Computer Models for Security Updates",
+      "model": "Galaxy Book4 Ultra",
+      "series": "Galaxy Book Series"
+    },
+    "rec_67fc4671fb1d81f2c50b": {
+      "cadence": "Monthly",
+      "group": "Current Models for Monthly Security Updates",
+      "model": "Galaxy Z Flip7",
+      "series": "Galaxy Foldable Series"
+    },
+    "rec_68055df83a70e1c908a4": {
+      "cadence": "Monthly",
+      "group": "Current Models for Monthly Security Updates",
+      "model": "Galaxy XCover7",
+      "series": "Enterprise Models"
+    },
+    "rec_68bc2a282fb770c00500": {
+      "cadence": "Quarterly",
+      "group": "Current Models for Quarterly Security Updates",
+      "model": "Galaxy A16",
+      "series": "Galaxy A Series"
+    },
+    "rec_68d0930d54572653cd78": {
+      "cadence": "Monthly",
+      "group": "Current Models for Monthly Security Updates",
+      "model": "Galaxy Z Flip6",
+      "series": "Galaxy Foldable Series"
+    },
+    "rec_68ec411dc8f555812a31": {
+      "cadence": "Quarterly",
+      "group": "Current Wearable Models for Quarterly Security Updates",
+      "model": "Galaxy Watch8 44mm",
+      "series": "Galaxy Watch Series"
+    },
+    "rec_6b559f207bbdadec1b9b": {
+      "cadence": "Quarterly",
+      "group": "Current Models for Quarterly Security Updates",
+      "model": "Galaxy F34 5G",
+      "series": "Galaxy F Series"
+    },
+    "rec_6d093797cc141dd52c06": {
+      "cadence": "Monthly",
+      "group": "Current Models for Monthly Security Updates",
+      "model": "Galaxy Z Fold Special Edition",
+      "series": "Galaxy Foldable Series"
+    },
+    "rec_6f0ebb0700ac7c43c3f7": {
+      "cadence": "Quarterly",
+      "group": "Current Models for Quarterly Security Updates",
+      "model": "Galaxy Tab A9+",
+      "series": "Galaxy Tab A Series"
+    },
+    "rec_70bff6222021a2a9c0df": {
+      "cadence": "Quarterly",
+      "group": "Current Models for Quarterly Security Updates",
+      "model": "Galaxy A53 5G",
+      "series": "Enterprise Models"
+    },
+    "rec_718f500b26c52ab286e7": {
+      "cadence": "Quarterly",
+      "group": "Current Models for Quarterly Security Updates",
+      "model": "Galaxy Tab A9",
+      "series": "Galaxy Tab A Series"
+    },
+    "rec_71955a205da341555bcc": {
+      "cadence": "Monthly",
+      "group": "Current Models for Monthly Security Updates",
+      "model": "Galaxy A56 5G",
+      "series": "Enterprise Models"
+    },
+    "rec_7237910e1912ce367dbd": {
+      "cadence": "Quarterly",
+      "group": "Current Models for Quarterly Security Updates",
+      "model": "Galaxy Tab Active5",
+      "series": "Enterprise Models"
+    },
+    "rec_729f6d1d04562fd78135": {
+      "cadence": "Quarterly",
+      "group": "Current Wearable Models for Quarterly Security Updates",
+      "model": "Galaxy Watch Ultra",
+      "series": "Galaxy Watch Series"
+    },
+    "rec_77bc9dd92f75c7137286": {
+      "cadence": "Quarterly",
+      "group": "Current Models for Quarterly Security Updates",
+      "model": "Galaxy M16 5G",
+      "series": "Galaxy M Series"
+    },
+    "rec_78c80bb9fff3bebf2dd1": {
+      "cadence": "Quarterly",
+      "group": "Current Models for Quarterly Security Updates",
+      "model": "Galaxy Tab A11+",
+      "series": "Galaxy Tab A Series"
+    },
+    "rec_79edfacc7cee6243e159": {
+      "cadence": "Monthly",
+      "group": "Current Models for Monthly Security Updates",
+      "model": "W26",
+      "series": "Galaxy Foldable Series"
+    },
+    "rec_80b15803b35d53abd8ba": {
+      "cadence": "Monthly",
+      "group": "Current Models for Monthly Security Updates",
+      "model": "Galaxy S26+",
+      "series": "Galaxy S Series"
+    },
+    "rec_80c29774bf780adfd315": {
+      "cadence": "Quarterly",
+      "group": "Current Models for Quarterly Security Updates",
+      "model": "Galaxy A25 5G",
+      "series": "Galaxy A Series"
+    },
+    "rec_858c463e817d8d342a49": {
+      "cadence": "Monthly",
+      "group": "Current Models for Monthly Security Updates",
+      "model": "Galaxy XCover7 Pro",
+      "series": "Enterprise Models"
+    },
+    "rec_85a5c01e936bcb34f773": {
+      "cadence": "Monthly",
+      "group": "Current Models for Monthly Security Updates",
+      "model": "Galaxy A55 5G",
+      "series": "Enterprise Models"
+    },
+    "rec_85f66ad2dbce027e94f4": {
+      "cadence": "Quarterly",
+      "group": "Current Models for Quarterly Security Updates",
+      "model": "Galaxy A07s",
+      "series": "Galaxy A Series"
+    },
+    "rec_875ba311cc782083c72f": {
+      "cadence": "Quarterly",
+      "group": "Current Models for Quarterly Security Updates",
+      "model": "Galaxy Tab S9 FE+",
+      "series": "Galaxy Tab S Series"
+    },
+    "rec_88faba6577df29bccf73": {
+      "cadence": "Quarterly",
+      "group": "Current Models for Quarterly Security Updates",
+      "model": "Galaxy A14",
+      "series": "Galaxy A Series"
+    },
+    "rec_89ab235f7daaf7d61637": {
+      "cadence": "Quarterly",
+      "group": "Current Models for Quarterly Security Updates",
+      "model": "Galaxy M56 5G",
+      "series": "Galaxy M Series"
+    },
+    "rec_8afd9262a32cf7e1fea1": {
+      "cadence": "Monthly",
+      "group": "Current Models for Monthly Security Updates",
+      "model": "Galaxy Tab Active5 Pro",
+      "series": "Enterprise Models"
+    },
+    "rec_8bc283aed8ca91e0949b": {
+      "cadence": "Quarterly",
+      "group": "Current Wearable Models for Quarterly Security Updates",
+      "model": "Galaxy Watch6 40mm",
+      "series": "Galaxy Watch Series"
+    },
+    "rec_8dfb39943cd5d318706d": {
+      "cadence": "Quarterly",
+      "group": "Current Models for Quarterly Security Updates",
+      "model": "Galaxy A05",
+      "series": "Galaxy A Series"
+    },
+    "rec_8e3766447b31c9c780fd": {
+      "cadence": "Quarterly",
+      "group": "Current Models for Quarterly Security Updates",
+      "model": "Galaxy Tab S10 FE+",
+      "series": "Galaxy Tab S Series"
+    },
+    "rec_8e79febe33e5ea29efa3": {
+      "cadence": "Monthly",
+      "group": "Current Models for Monthly Security Updates",
+      "model": "Galaxy Z Fold6",
+      "series": "Galaxy Foldable Series"
+    },
+    "rec_8f26833507572e4f809f": {
+      "cadence": "Quarterly",
+      "group": "Current Models for Quarterly Security Updates",
+      "model": "Galaxy Tab S11",
+      "series": "Galaxy Tab S Series"
+    },
+    "rec_91aae93588afd8a66ce5": {
+      "group": "Current Personal Computer Models for Security Updates",
+      "model": "Galaxy Book4 Pro",
+      "series": "Galaxy Book Series"
+    },
+    "rec_95d2fa5d5505b13b73a2": {
+      "cadence": "Quarterly",
+      "group": "Current Models for Quarterly Security Updates",
+      "model": "Galaxy A07",
+      "series": "Galaxy A Series"
+    },
+    "rec_9c51c34ec7f8d486b577": {
+      "cadence": "Quarterly",
+      "group": "Current Models for Quarterly Security Updates",
+      "model": "Galaxy A04",
+      "series": "Galaxy A Series"
+    },
+    "rec_9c565fe3b5f82b297d2a": {
+      "cadence": "Quarterly",
+      "group": "Current Models for Quarterly Security Updates",
+      "model": "Galaxy A07 5G",
+      "series": "Galaxy A Series"
+    },
+    "rec_9f20eb4fd6a5e2dc2f11": {
+      "cadence": "Quarterly",
+      "group": "Current Models for Quarterly Security Updates",
+      "model": "Galaxy F06 5G",
+      "series": "Galaxy F Series"
+    },
+    "rec_a2106bf1852f23678ee3": {
+      "cadence": "Quarterly",
+      "group": "Current Models for Quarterly Security Updates",
+      "model": "Galaxy A27 5G",
+      "series": "Galaxy A Series"
+    },
+    "rec_a24e20878f727c6564e7": {
+      "cadence": "Quarterly",
+      "group": "Current Models for Quarterly Security Updates",
+      "model": "Galaxy F56 5G",
+      "series": "Galaxy F Series"
+    },
+    "rec_a8ff8725ab73c2244c62": {
+      "cadence": "Monthly",
+      "group": "Current Models for Monthly Security Updates",
+      "model": "Galaxy S23 FE",
+      "series": "Galaxy S Series"
+    },
+    "rec_aa9039c118bc6b084289": {
+      "cadence": "Monthly",
+      "group": "Current Models for Monthly Security Updates",
+      "model": "Galaxy S23",
+      "series": "Galaxy S Series"
+    },
+    "rec_aadf0a04e9503cc580e5": {
+      "cadence": "Monthly",
+      "group": "Current Models for Monthly Security Updates",
+      "model": "Galaxy S24 FE",
+      "series": "Galaxy S Series"
+    },
+    "rec_b052c29901db3c01bece": {
+      "cadence": "Quarterly",
+      "group": "Current Models for Quarterly Security Updates",
+      "model": "Galaxy A16 5G",
+      "series": "Galaxy A Series"
+    },
+    "rec_b0ad5915971a72c9ce87": {
+      "cadence": "Quarterly",
+      "group": "Current Models for Quarterly Security Updates",
+      "model": "Galaxy A06 5G",
+      "series": "Galaxy A Series"
+    },
+    "rec_b0f18e31728a97a355c8": {
+      "cadence": "Quarterly",
+      "group": "Current Models for Quarterly Security Updates",
+      "model": "Galaxy F16 5G",
+      "series": "Galaxy F Series"
+    },
+    "rec_b511414bad6576bfc29f": {
+      "cadence": "Monthly",
+      "group": "Current Models for Monthly Security Updates",
+      "model": "Galaxy S26 Ultra",
+      "series": "Galaxy S Series"
+    },
+    "rec_b5551492d3ea30899f94": {
+      "cadence": "Quarterly",
+      "group": "Current Models for Quarterly Security Updates",
+      "model": "Galaxy F07",
+      "series": "Galaxy F Series"
+    },
+    "rec_b575374e0340606eae2f": {
+      "cadence": "Quarterly",
+      "group": "Current Models for Quarterly Security Updates",
+      "model": "Galaxy Tab S8 Ultra",
+      "series": "Galaxy Tab S Series"
+    },
+    "rec_b944891a570038155fa6": {
+      "cadence": "Quarterly",
+      "group": "Current Models for Quarterly Security Updates",
+      "model": "Galaxy A05s",
+      "series": "Galaxy A Series"
+    },
+    "rec_b9e766141ec21f724934": {
+      "cadence": "Monthly",
+      "group": "Current Models for Monthly Security Updates",
+      "model": "Galaxy S25 Ultra",
+      "series": "Galaxy S Series"
+    },
+    "rec_bb9ab7553848d8e0ab45": {
+      "cadence": "Quarterly",
+      "group": "Current Models for Quarterly Security Updates",
+      "model": "Galaxy M04",
+      "series": "Galaxy M Series"
+    },
+    "rec_bcc37494879edc3251ea": {
+      "cadence": "Quarterly",
+      "group": "Current Wearable Models for Quarterly Security Updates",
+      "model": "Galaxy Watch5 40mm",
+      "series": "Galaxy Watch Series"
+    },
+    "rec_bf226533d58b70f0703f": {
+      "cadence": "Quarterly",
+      "group": "Current Models for Quarterly Security Updates",
+      "model": "Galaxy M47 5G",
+      "series": "Galaxy M Series"
+    },
+    "rec_bfcff9abd4ff4cb11538": {
+      "cadence": "Quarterly",
+      "group": "Current Models for Quarterly Security Updates",
+      "model": "W23 Flip",
+      "series": "Galaxy Foldable Series"
+    },
+    "rec_c0372838301405abe239": {
+      "cadence": "Quarterly",
+      "group": "Current Models for Quarterly Security Updates",
+      "model": "Galaxy M35 5G",
+      "series": "Galaxy M Series"
+    },
+    "rec_c45b82e2678e166dcce1": {
+      "cadence": "Quarterly",
+      "group": "Current Models for Quarterly Security Updates",
+      "model": "Galaxy M36 5G",
+      "series": "Galaxy M Series"
+    },
+    "rec_c4b8bb8698b81f7e15c0": {
+      "cadence": "Quarterly",
+      "group": "Current Wearable Models for Quarterly Security Updates",
+      "model": "Galaxy Watch7 40mm",
+      "series": "Galaxy Watch Series"
+    },
+    "rec_c5212de07f40b3e0a849": {
+      "cadence": "Quarterly",
+      "group": "Current Wearable Models for Quarterly Security Updates",
+      "model": "Galaxy Watch5 Pro",
+      "series": "Galaxy Watch Series"
+    },
+    "rec_c6700f385830be17fa42": {
+      "cadence": "Quarterly",
+      "group": "Current Models for Quarterly Security Updates",
+      "model": "Galaxy A14 5G",
+      "series": "Galaxy A Series"
+    },
+    "rec_c77801f008901d08e570": {
+      "cadence": "Quarterly",
+      "group": "Current Models for Quarterly Security Updates",
+      "model": "Galaxy Tab S9 FE",
+      "series": "Galaxy Tab S Series"
+    },
+    "rec_cbdeb6352a3ba42c750d": {
+      "cadence": "Monthly",
+      "group": "Current Models for Monthly Security Updates",
+      "model": "Galaxy Z Fold8 Ultra",
+      "series": "Galaxy Foldable Series"
+    },
+    "rec_cde5131ac66f0cff1ed0": {
+      "cadence": "Monthly",
+      "group": "Current Models for Monthly Security Updates",
+      "model": "Galaxy A57 5G",
+      "series": "Enterprise Models"
+    },
+    "rec_ce4435ee7f1af8134106": {
+      "cadence": "Quarterly",
+      "group": "Current Models for Quarterly Security Updates",
+      "model": "Galaxy A15",
+      "series": "Galaxy A Series"
+    },
+    "rec_d2ffe7317fb22fed007d": {
+      "cadence": "Quarterly",
+      "group": "Current Wearable Models for Quarterly Security Updates",
+      "model": "Galaxy Watch Ultra2",
+      "series": "Galaxy Watch Series"
+    },
+    "rec_d4dade834aa37cae9c6d": {
+      "cadence": "Quarterly",
+      "group": "Current Wearable Models for Quarterly Security Updates",
+      "model": "Galaxy Watch6 Classic 43mm",
+      "series": "Galaxy Watch Series"
+    },
+    "rec_d4dd9abfedf52e736b8a": {
+      "cadence": "Quarterly",
+      "group": "Current Wearable Models for Quarterly Security Updates",
+      "model": "Galaxy Watch8 Classic 46mm",
+      "series": "Galaxy Watch Series"
+    },
+    "rec_d50f15e32e11971bed25": {
+      "cadence": "Quarterly",
+      "group": "Current Models for Quarterly Security Updates",
+      "model": "Galaxy A17",
+      "series": "Galaxy A Series"
+    },
+    "rec_d607709e57771032e53c": {
+      "cadence": "Monthly",
+      "group": "Current Models for Monthly Security Updates",
+      "model": "W24 Flip",
+      "series": "Galaxy Foldable Series"
+    },
+    "rec_d6a2d41db4fb51802f8c": {
+      "cadence": "Quarterly",
+      "group": "Current Models for Quarterly Security Updates",
+      "model": "Galaxy Tab Active4 Pro",
+      "series": "Enterprise Models"
+    },
+    "rec_d747eff844606ea04dfc": {
+      "cadence": "Quarterly",
+      "group": "Current Models for Quarterly Security Updates",
+      "model": "Galaxy F05",
+      "series": "Galaxy F Series"
+    },
+    "rec_d863af431efd4d0a7cff": {
+      "cadence": "Quarterly",
+      "group": "Current Models for Quarterly Security Updates",
+      "model": "Galaxy A36 5G",
+      "series": "Galaxy A Series"
+    },
+    "rec_dbe5f2ed31fd7226ae0a": {
+      "cadence": "Quarterly",
+      "group": "Current Models for Quarterly Security Updates",
+      "model": "Galaxy S22",
+      "series": "Galaxy S Series"
+    },
+    "rec_e03076788813451cb428": {
+      "cadence": "Monthly",
+      "group": "Current Models for Monthly Security Updates",
+      "model": "Galaxy S26",
+      "series": "Galaxy S Series"
+    },
+    "rec_e0db7504b54795e8267c": {
+      "cadence": "Monthly",
+      "group": "Current Models for Monthly Security Updates",
+      "model": "Galaxy S25+",
+      "series": "Galaxy S Series"
+    },
+    "rec_e275a3015fb33f8571db": {
+      "cadence": "Monthly",
+      "group": "Current Models for Monthly Security Updates",
+      "model": "W24",
+      "series": "Galaxy Foldable Series"
+    },
+    "rec_e3572b759810799e268b": {
+      "cadence": "Quarterly",
+      "group": "Current Wearable Models for Quarterly Security Updates",
+      "model": "Galaxy Watch9 44mm",
+      "series": "Galaxy Watch Series"
+    },
+    "rec_e501f57282b182331b93": {
+      "cadence": "Quarterly",
+      "group": "Current Models for Quarterly Security Updates",
+      "model": "Galaxy Tab S10+",
+      "series": "Galaxy Tab S Series"
+    },
+    "rec_e57a781c42d73a271c82": {
+      "cadence": "Quarterly",
+      "group": "Current Models for Quarterly Security Updates",
+      "model": "Galaxy M14 5G",
+      "series": "Galaxy M Series"
+    },
+    "rec_e59c7a1ce33369619c30": {
+      "group": "Current Personal Computer Models for Security Updates",
+      "model": "Galaxy Book4",
+      "series": "Galaxy Book Series"
+    },
+    "rec_e5fc46dc5b3a4496cd80": {
+      "cadence": "Quarterly",
+      "group": "Current Models for Quarterly Security Updates",
+      "model": "Galaxy M17e 5G",
+      "series": "Galaxy M Series"
+    },
+    "rec_eacea19e69f56179ac01": {
+      "cadence": "Monthly",
+      "group": "Current Models for Monthly Security Updates",
+      "model": "Galaxy S24+",
+      "series": "Galaxy S Series"
+    },
+    "rec_ecc6e9404ae1d86656f6": {
+      "cadence": "Quarterly",
+      "group": "Current Models for Quarterly Security Updates",
+      "model": "Galaxy M06 5G",
+      "series": "Galaxy M Series"
+    },
+    "rec_ecdd06af127ec0a50083": {
+      "cadence": "Quarterly",
+      "group": "Current Wearable Models for Quarterly Security Updates",
+      "model": "Galaxy Watch6 44mm",
+      "series": "Galaxy Watch Series"
+    },
+    "rec_f040beff41925000cf80": {
+      "cadence": "Quarterly",
+      "group": "Current Models for Quarterly Security Updates",
+      "model": "Galaxy M54 5G",
+      "series": "Galaxy M Series"
+    },
+    "rec_f1800c57bb0a26c7c209": {
+      "cadence": "Monthly",
+      "group": "Current Models for Monthly Security Updates",
+      "model": "Galaxy S25 FE",
+      "series": "Galaxy S Series"
+    },
+    "rec_f1cf67c714d4cf3777e1": {
+      "cadence": "Quarterly",
+      "group": "Current Models for Quarterly Security Updates",
+      "model": "Galaxy Tab S9 Ultra",
+      "series": "Galaxy Tab S Series"
+    },
+    "rec_f432c56cb9ccada5210e": {
+      "cadence": "Quarterly",
+      "group": "Current Models for Quarterly Security Updates",
+      "model": "Galaxy F14 5G",
+      "series": "Galaxy F Series"
+    },
+    "rec_f447b3847f6dd21b6f5a": {
+      "cadence": "Quarterly",
+      "group": "Current Models for Quarterly Security Updates",
+      "model": "Galaxy S22+",
+      "series": "Galaxy S Series"
+    },
+    "rec_f7d67dc8592f12d7bf72": {
+      "cadence": "Quarterly",
+      "group": "Current Models for Quarterly Security Updates",
+      "model": "Galaxy Tab S9",
+      "series": "Galaxy Tab S Series"
+    },
+    "rec_f85091deb47f23ce5440": {
+      "cadence": "Quarterly",
+      "group": "Current Wearable Models for Quarterly Security Updates",
+      "model": "Galaxy Watch9 40mm",
+      "series": "Galaxy Watch Series"
+    },
+    "rec_f8ae012819c668917139": {
+      "cadence": "Quarterly",
+      "group": "Current Models for Quarterly Security Updates",
+      "model": "Galaxy M15 5G",
+      "series": "Galaxy M Series"
+    },
+    "rec_f8d4a5b2292a2cd0160c": {
+      "cadence": "Monthly",
+      "group": "Current Models for Monthly Security Updates",
+      "model": "Galaxy Z Flip8",
+      "series": "Galaxy Foldable Series"
+    },
+    "rec_fbca3305a7ad78440977": {
+      "cadence": "Quarterly",
+      "group": "Current Models for Quarterly Security Updates",
+      "model": "Galaxy A08",
+      "series": "Galaxy A Series"
+    },
+    "rec_fc05330ffc8670990f56": {
+      "cadence": "Quarterly",
+      "group": "Current Wearable Models for Quarterly Security Updates",
+      "model": "Galaxy Watch7 44mm",
+      "series": "Galaxy Watch Series"
+    },
+    "rec_fde2c00785dd4f49ef66": {
+      "cadence": "Monthly",
+      "group": "Current Models for Monthly Security Updates",
+      "model": "W25",
+      "series": "Galaxy Foldable Series"
+    },
+    "rec_fe405c074ee1fc3576b6": {
+      "cadence": "Quarterly",
+      "group": "Current Wearable Models for Quarterly Security Updates",
+      "model": "Galaxy Watch8 40mm",
+      "series": "Galaxy Watch Series"
+    },
+    "rec_fe7d6225b1a9987b0d47": {
+      "cadence": "Quarterly",
+      "group": "Current Models for Quarterly Security Updates",
+      "model": "Galaxy Tab A11",
+      "series": "Galaxy Tab A Series"
+    },
+    "rec_ff5285868e572c899de6": {
+      "cadence": "Monthly",
+      "group": "Current Models for Monthly Security Updates",
+      "model": "Galaxy Z Fold7",
+      "series": "Galaxy Foldable Series"
+    },
+    "rec_ffe9d3cefb36e4e8a691": {
+      "cadence": "Quarterly",
+      "group": "Current Models for Quarterly Security Updates",
+      "model": "Galaxy Tab A9+(2025)",
+      "series": "Galaxy Tab A Series"
+    }
+  },
+  "today": "2026-10-30"
+}

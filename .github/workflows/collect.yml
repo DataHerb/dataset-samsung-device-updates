@@ -1,0 +1,72 @@
+name: collect
+on:
+  schedule:
+    - cron: "17 5 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+  issues: write
+concurrency: collect
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Restore the raw cache (conditional requests, last-good pages)
+        uses: actions/cache@v4
+        with:
+          path: data/raw
+          key: raw-${{ github.run_id }}
+          restore-keys: raw-
+      - run: pip install "gleanyard~=0.10.0"
+      - run: gleanyard validate
+      - id: collect
+        run: gleanyard collect
+        continue-on-error: true
+      - run: gleanyard export
+      - id: terms
+        name: Have the terms or robots.txt changed? (each source at most once a week)
+        run: gleanyard terms
+        continue-on-error: true
+      - run: gleanyard badge
+      - name: Commit results
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add status.json badges data/records data/review exports $(ls -d data/changes dataherb.json _dataherb 2>/dev/null)
+          git diff --cached --quiet || git commit -m "Collect $(date -u +%F)"
+          git push
+      - id: health
+        name: Check for failing or degraded sources
+        run: gleanyard status
+        continue-on-error: true
+      - name: Ask for a repair when a source is failing or degraded
+        if: steps.collect.outcome == 'failure' || steps.health.outcome == 'failure'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh label create repair --color B60205 --force
+          body=$(jq -r '"Sources that need repair (see `CLAUDE.md`, procedure Repair):\n" + ([.sources[] | select(.health == "failing" or .health == "degraded") | "- `\(.id)`: \(.health) \(.error_kind // "") \(.error // .note // "")"] | join("\n")) + "\n\nRun: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"' status.json)
+          existing=$(gh issue list --label repair --state open --json number --jq '.[0].number // empty')
+          if [ -n "$existing" ]; then
+            gh issue comment "$existing" --body "$body"
+          else
+            gh issue create --label repair --title "Repair needed" --body "$body"
+          fi
+      - name: Ask the owner to read changed terms
+        if: steps.terms.outcome == 'failure'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh label create terms --color 5319E7 --force
+          body=$(jq -r '"The terms or robots.txt of these sources changed since their review (see the procedure \"Review changed terms\"):\n" + ([.sources[] | {id, url: (.terms.changed // [])[]}] | group_by(.url) | map("- \(.[0].url) (\(length) source(s): \([.[:5][] | "`\(.id)`"] | join(", "))\(if length > 5 then " and \(length - 5) more" else "" end))") | join("\n"))' status.json)
+          existing=$(gh issue list --label terms --state open --json number --jq '.[0].number // empty')
+          if [ -z "$existing" ]; then
+            gh issue create --label terms --title "Terms changed" --body "$body"
+          fi
+      - name: Fail the run so it shows red
+        if: steps.collect.outcome == 'failure' || steps.health.outcome == 'failure'
+        run: exit 1

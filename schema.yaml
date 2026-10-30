@@ -1,0 +1,20 @@
+# One record: a Samsung device model and the security update programme it is in.
+name: device-update
+version: 1
+description: A Samsung device model listed for regular security updates, with its update cadence.
+identity: [group, model]           # a model can be listed in more than one group
+fields:
+  model:
+    type: string
+    required: true
+    description: Device model as Samsung lists it, e.g. Galaxy S25 Ultra.
+  series:
+    type: string
+    description: Series heading the model is listed under, e.g. Galaxy S Series.
+  cadence:
+    type: string
+    description: Update cadence named in the group heading (Monthly, Quarterly, Biannual); empty when the heading names none.
+  group:
+    type: string
+    required: true
+    description: The heading of the list, e.g. Current Models for Monthly Security Updates.
