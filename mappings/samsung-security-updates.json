@@ -1,0 +1,17 @@
+{
+  "name": "samsung-security-update-models",
+  "baseSelector": "#contents div.txt_section_workscope",
+  "fields": [
+    {"name": "group", "selector": "strong", "type": "regex", "pattern": "^(.*?Updates)"},
+    {"name": "cadence", "selector": "strong", "type": "regex", "pattern": "(Monthly|Quarterly|Biannual)"},
+    {
+      "name": "series_list",
+      "selector": "ul.list_table_workscope > li",
+      "type": "nested_list",
+      "fields": [
+        {"name": "series", "selector": "b"},
+        {"name": "model", "selector": "ul.list_circle_s > li", "type": "list", "split": ",\\s*"}
+      ]
+    }
+  ]
+}

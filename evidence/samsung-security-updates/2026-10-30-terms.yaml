@@ -1,0 +1,24 @@
+source: samsung-security-updates
+read_at: 2026-10-30
+pages:
+  - url: https://security.samsungmobile.com/workScope.smsb
+    quote: >-
+      Copyright© 2017 SAMSUNG All Rights Reserved.
+    note: >-
+      The page footer links only a Privacy Policy, a Cookie Policy and Samsung's request desk.
+      The site links no terms of use, licence or imprint. The page lists device model names
+      under headings that name the update cadence (monthly, quarterly, biannual).
+  - url: https://security.samsungmobile.com/robots.txt
+    quote: "404 Page Not Found"
+    note: >-
+      No robots.txt, so nothing is disallowed. The page answers the project's user agent,
+      which names the repo, with HTTP 200 (checked with `gleanyard probe` on 2026-10-30).
+reading: >-
+  No licence and no terms of use for this site; the footer reserves Samsung's copyright in
+  the site. The records are short facts (a model name, the series heading and the cadence in
+  the list heading), which carry no copyright on their own; the layout and wording of the
+  page are Samsung's. One page is fetched once a day. Publishing these facts as a dataset is
+  what this repo has done since 2023 with a hand-written scraper. Facts only fits: export the
+  four fields, keep no page text. The owner decides; asking Samsung through
+  https://www.samsung.com/request-desk would settle it.
+suggested_tier: facts_only
