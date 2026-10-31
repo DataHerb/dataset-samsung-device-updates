@@ -2,7 +2,7 @@ schema_version: 1
 id: samsung-security-updates
 name: Samsung Mobile Security, security update scope
 schema: device-update
-enabled: false
+enabled: true
 delivery: html
 url: https://security.samsungmobile.com/workScope.smsb
 homepage: https://security.samsungmobile.com/
@@ -15,7 +15,7 @@ fetch:
   delay_seconds: 1
 expect_change_days: 120          # the list changes a few times a year
 rights:
-  review_status: pending
+  review_status: approved
   effective_tier: facts_only
   allowed_actions:
     private_store: true
@@ -25,6 +25,8 @@ rights:
     redistribute_text: false
     redistribute_images: false
   public_fields: [model, series, cadence, group]
+  reviewed_at: 2026-10-31
   notes: >-
-    Pending the owner's review. No licence or terms of use found; the records are facts.
+    Approved by the owner on 2026-10-31: the page is open and may be used. No licence or
+    terms of use found, so the tier is facts_only (an open tier needs a licence id and URL).
     See evidence/samsung-security-updates/2026-10-30-terms.yaml.
