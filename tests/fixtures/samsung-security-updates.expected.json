@@ -67,6 +67,7 @@
       "series": "Galaxy S Series"
     },
     "rec_0cd87fe77ada724f0b87": {
+      "cadence": "No Information",
       "group": "Current Personal Computer Models for Security Updates",
       "model": "Galaxy Book4 360",
       "series": "Galaxy Book Series"
@@ -336,6 +337,7 @@
       "series": "Galaxy F Series"
     },
     "rec_5513ba38aaa1bbf26666": {
+      "cadence": "No Information",
       "group": "Current Personal Computer Models for Security Updates",
       "model": "Galaxy Book4 Pro 360",
       "series": "Galaxy Book Series"
@@ -389,6 +391,7 @@
       "series": "Galaxy A Series"
     },
     "rec_666160bacc9b25529c9c": {
+      "cadence": "No Information",
       "group": "Current Personal Computer Models for Security Updates",
       "model": "Galaxy Book4 Ultra",
       "series": "Galaxy Book Series"
@@ -574,6 +577,7 @@
       "series": "Galaxy Tab S Series"
     },
     "rec_91aae93588afd8a66ce5": {
+      "cadence": "No Information",
       "group": "Current Personal Computer Models for Security Updates",
       "model": "Galaxy Book4 Pro",
       "series": "Galaxy Book Series"
@@ -849,6 +853,7 @@
       "series": "Galaxy M Series"
     },
     "rec_e59c7a1ce33369619c30": {
+      "cadence": "No Information",
       "group": "Current Personal Computer Models for Security Updates",
       "model": "Galaxy Book4",
       "series": "Galaxy Book Series"

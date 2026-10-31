@@ -10,6 +10,8 @@ extract:
   mode: selectors
   selectors: mappings/samsung-security-updates.json
   explode: series_list.model     # one record per model listed on a line
+  defaults:
+    cadence: No Information      # as the old scraper wrote for groups without a cadence
 fetch:
   max_requests: 3
   delay_seconds: 1
