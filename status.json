@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "generated_at": "2026-11-01T11:50:52.726025Z",
+  "schema_name": "device-update",
+  "healthy": true,
+  "sources": [
+    {
+      "id": "samsung-security-updates",
+      "enabled": true,
+      "health": "ok",
+      "checked_at": "2026-11-01T11:50:52.726025Z",
+      "last_success_at": "2026-11-01T11:50:52.726025Z",
+      "consecutive_failures": 0,
+      "records": 163,
+      "previous_records": null,
+      "rejections": 0,
+      "pages": 1,
+      "model_calls": 0,
+      "cost_eur": 0.0,
+      "field_fill_rates": {
+        "cadence": 1.0,
+        "group": 1.0,
+        "model": 1.0,
+        "series": 1.0
+      },
+      "warnings": [],
+      "baseline_fill_rates": {
+        "cadence": 1.0,
+        "group": 1.0,
+        "model": 1.0,
+        "series": 1.0
+      },
+      "baseline_rejection_rate": 0.0,
+      "records_digest": "eab390b8ebfdc80703ea06cb37466c28018eec8020f36ac5c81d04fbf899e27d",
+      "records_changed_at": "2026-11-01T11:50:52.726025Z",
+      "error_kind": null,
+      "error": null,
+      "note": null,
+      "terms": {
+        "reviewed_on": "2026-10-30",
+        "checked_at": "2026-11-01T11:50:53.331514Z",
+        "pages": {
+          "https://security.samsungmobile.com/workScope.smsb": "b9612a69261024746e83bb4726edda37e729b23a708f6467882f6e29a6ba4a66",
+          "https://security.samsungmobile.com/robots.txt": "absent"
+        },
+        "changed": [],
+        "changed_at": null,
+        "errors": {}
+      },
+      "recipe": null,
+      "recipe_digest": null
+    }
+  ]
+}
