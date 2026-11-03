@@ -20,8 +20,8 @@
         "path": "exports/records.jsonl",
         "format": "ndjson",
         "mediatype": "application/x-ndjson",
-        "rows": 163,
-        "bytes": 67223,
+        "rows": 168,
+        "bytes": 69279,
         "schema": {
           "fields": [
             {
@@ -64,7 +64,7 @@
         "format": "csv",
         "mediatype": "text/csv",
         "encoding": "utf-8",
-        "rows": 163,
+        "rows": 168,
         "schema": {
           "fields": [
             {
@@ -115,7 +115,7 @@
           ],
           "primaryKey": "id"
         },
-        "bytes": 31272
+        "bytes": 32223
       }
     ]
   }

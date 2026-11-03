@@ -4,6 +4,121 @@
   "description": "Records added, changed or removed in the last 30 days, filtered by each source's rights.",
   "items": [
     {
+      "id": "rec_172596fd817f42cbd7b3:added:2026-11-03T12:47:48.227566+00:00",
+      "title": "Added: Current Models for Quarterly Security Updates / Galaxy Tab S12 Ultra",
+      "date_published": "2026-11-03T12:47:48.227566+00:00",
+      "_gleanyard": {
+        "change": "added",
+        "record": {
+          "id": "rec_172596fd817f42cbd7b3",
+          "model": "Galaxy Tab S12 Ultra",
+          "series": "Galaxy Tab S Series",
+          "cadence": "Quarterly",
+          "group": "Current Models for Quarterly Security Updates",
+          "_source": {
+            "source_id": "samsung-security-updates",
+            "url": "https://security.samsungmobile.com/workScope.smsb",
+            "retrieved_at": "2026-11-03T12:47:48.206452+00:00",
+            "mode": "selectors",
+            "first_seen": "2026-11-03T12:47:48.206452+00:00"
+          }
+        }
+      },
+      "url": "https://security.samsungmobile.com/workScope.smsb"
+    },
+    {
+      "id": "rec_c79c27a651ed47c1dbbe:added:2026-11-03T12:47:48.227566+00:00",
+      "title": "Added: Current Models for Quarterly Security Updates / Galaxy Tab S12+",
+      "date_published": "2026-11-03T12:47:48.227566+00:00",
+      "_gleanyard": {
+        "change": "added",
+        "record": {
+          "id": "rec_c79c27a651ed47c1dbbe",
+          "model": "Galaxy Tab S12+",
+          "series": "Galaxy Tab S Series",
+          "cadence": "Quarterly",
+          "group": "Current Models for Quarterly Security Updates",
+          "_source": {
+            "source_id": "samsung-security-updates",
+            "url": "https://security.samsungmobile.com/workScope.smsb",
+            "retrieved_at": "2026-11-03T12:47:48.206452+00:00",
+            "mode": "selectors",
+            "first_seen": "2026-11-03T12:47:48.206452+00:00"
+          }
+        }
+      },
+      "url": "https://security.samsungmobile.com/workScope.smsb"
+    },
+    {
+      "id": "rec_96cf5ee7edfca6faf6a9:added:2026-11-03T12:47:48.227566+00:00",
+      "title": "Added: Current Models for Quarterly Security Updates / Galaxy F70 5G",
+      "date_published": "2026-11-03T12:47:48.227566+00:00",
+      "_gleanyard": {
+        "change": "added",
+        "record": {
+          "id": "rec_96cf5ee7edfca6faf6a9",
+          "model": "Galaxy F70 5G",
+          "series": "Galaxy F Series",
+          "cadence": "Quarterly",
+          "group": "Current Models for Quarterly Security Updates",
+          "_source": {
+            "source_id": "samsung-security-updates",
+            "url": "https://security.samsungmobile.com/workScope.smsb",
+            "retrieved_at": "2026-11-03T12:47:48.206452+00:00",
+            "mode": "selectors",
+            "first_seen": "2026-11-03T12:47:48.206452+00:00"
+          }
+        }
+      },
+      "url": "https://security.samsungmobile.com/workScope.smsb"
+    },
+    {
+      "id": "rec_7b6f4fdf2d7968448761:added:2026-11-03T12:47:48.227566+00:00",
+      "title": "Added: Current Models for Quarterly Security Updates / Galaxy F08",
+      "date_published": "2026-11-03T12:47:48.227566+00:00",
+      "_gleanyard": {
+        "change": "added",
+        "record": {
+          "id": "rec_7b6f4fdf2d7968448761",
+          "model": "Galaxy F08",
+          "series": "Galaxy F Series",
+          "cadence": "Quarterly",
+          "group": "Current Models for Quarterly Security Updates",
+          "_source": {
+            "source_id": "samsung-security-updates",
+            "url": "https://security.samsungmobile.com/workScope.smsb",
+            "retrieved_at": "2026-11-03T12:47:48.206452+00:00",
+            "mode": "selectors",
+            "first_seen": "2026-11-03T12:47:48.206452+00:00"
+          }
+        }
+      },
+      "url": "https://security.samsungmobile.com/workScope.smsb"
+    },
+    {
+      "id": "rec_84e74c6e25a7cc922760:added:2026-11-03T12:47:48.227566+00:00",
+      "title": "Added: Current Models for Quarterly Security Updates / Galaxy M08",
+      "date_published": "2026-11-03T12:47:48.227566+00:00",
+      "_gleanyard": {
+        "change": "added",
+        "record": {
+          "id": "rec_84e74c6e25a7cc922760",
+          "model": "Galaxy M08",
+          "series": "Galaxy M Series",
+          "cadence": "Quarterly",
+          "group": "Current Models for Quarterly Security Updates",
+          "_source": {
+            "source_id": "samsung-security-updates",
+            "url": "https://security.samsungmobile.com/workScope.smsb",
+            "retrieved_at": "2026-11-03T12:47:48.206452+00:00",
+            "mode": "selectors",
+            "first_seen": "2026-11-03T12:47:48.206452+00:00"
+          }
+        }
+      },
+      "url": "https://security.samsungmobile.com/workScope.smsb"
+    },
+    {
       "id": "rec_e59c7a1ce33369619c30:added:2026-11-01T11:50:52.707758+00:00",
       "title": "Added: Current Personal Computer Models for Security Updates / Galaxy Book4",
       "date_published": "2026-11-01T11:50:52.707758+00:00",
