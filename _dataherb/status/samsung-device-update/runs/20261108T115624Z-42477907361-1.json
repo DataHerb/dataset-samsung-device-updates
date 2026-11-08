@@ -1,0 +1,63 @@
+{
+  "spec": "dataherb.status/v1",
+  "job": {
+    "id": "samsung-device-update",
+    "name": "samsung device update list",
+    "orchestrator": "github-actions",
+    "expected_interval": "P1D",
+    "tags": [
+      "samsung",
+      "android",
+      "security-updates"
+    ],
+    "url": "https://github.com/DataHerb/dataset-samsung-device-updates"
+  },
+  "run": {
+    "id": "42477907361-1",
+    "status": "success",
+    "started_at": "2026-11-08T11:56:24Z",
+    "finished_at": "2026-11-08T11:56:27Z",
+    "duration_seconds": 2.155,
+    "attempt": 1,
+    "trigger": "schedule",
+    "url": "https://github.com/DataHerb/dataset-samsung-device-updates/actions/runs/42477907361"
+  },
+  "last_success": {
+    "id": "42477907361-1",
+    "status": "success",
+    "started_at": "2026-11-08T11:56:24Z",
+    "finished_at": "2026-11-08T11:56:27Z",
+    "duration_seconds": 2.155,
+    "attempt": 1,
+    "trigger": "schedule",
+    "url": "https://github.com/DataHerb/dataset-samsung-device-updates/actions/runs/42477907361"
+  },
+  "datasets": [
+    {
+      "id": "samsung-device-update",
+      "rows": 168
+    }
+  ],
+  "checks": [
+    {
+      "name": "samsung-security-updates",
+      "status": "pass",
+      "value": 168
+    }
+  ],
+  "metrics": {
+    "sources": 1,
+    "sources_failing": 0,
+    "sources_degraded": 0,
+    "records": 168,
+    "rejections": 0,
+    "pages": 1,
+    "model_calls": 0,
+    "cost_eur": 0.0
+  },
+  "producer": {
+    "name": "gleanyard",
+    "version": "0.10.0"
+  },
+  "written_at": "2026-11-08T11:56:27Z"
+}
