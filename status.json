@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-13T13:07:11.804970Z",
+  "generated_at": "2026-11-14T12:11:58.686095Z",
   "schema_name": "device-update",
   "healthy": true,
   "sources": [
@@ -8,8 +8,8 @@
       "id": "samsung-security-updates",
       "enabled": true,
       "health": "ok",
-      "checked_at": "2026-11-13T13:07:11.804970Z",
-      "last_success_at": "2026-11-13T13:07:11.804970Z",
+      "checked_at": "2026-11-14T12:11:58.686095Z",
+      "last_success_at": "2026-11-14T12:11:58.686095Z",
       "consecutive_failures": 0,
       "records": 168,
       "previous_records": 168,
