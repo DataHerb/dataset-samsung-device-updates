@@ -13,24 +13,24 @@
     "url": "https://github.com/DataHerb/dataset-samsung-device-updates"
   },
   "run": {
-    "id": "43593594150-1",
+    "id": "43715337473-1",
     "status": "success",
-    "started_at": "2026-11-14T12:11:57Z",
-    "finished_at": "2026-11-14T12:11:58Z",
-    "duration_seconds": 1.682,
+    "started_at": "2026-11-15T12:44:19Z",
+    "finished_at": "2026-11-15T12:44:21Z",
+    "duration_seconds": 2.326,
     "attempt": 1,
     "trigger": "schedule",
-    "url": "https://github.com/DataHerb/dataset-samsung-device-updates/actions/runs/43593594150"
+    "url": "https://github.com/DataHerb/dataset-samsung-device-updates/actions/runs/43715337473"
   },
   "last_success": {
-    "id": "43593594150-1",
+    "id": "43715337473-1",
     "status": "success",
-    "started_at": "2026-11-14T12:11:57Z",
-    "finished_at": "2026-11-14T12:11:58Z",
-    "duration_seconds": 1.682,
+    "started_at": "2026-11-15T12:44:19Z",
+    "finished_at": "2026-11-15T12:44:21Z",
+    "duration_seconds": 2.326,
     "attempt": 1,
     "trigger": "schedule",
-    "url": "https://github.com/DataHerb/dataset-samsung-device-updates/actions/runs/43593594150"
+    "url": "https://github.com/DataHerb/dataset-samsung-device-updates/actions/runs/43715337473"
   },
   "datasets": [
     {
@@ -59,5 +59,5 @@
     "name": "gleanyard",
     "version": "0.10.0"
   },
-  "written_at": "2026-11-14T12:11:58Z"
+  "written_at": "2026-11-15T12:44:21Z"
 }
